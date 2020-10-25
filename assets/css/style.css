@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato|Open+Sans+Condensed:ital,wght@1,300&display=swap')
+
+body {
+    font-family: lato;
+    color: #6c757d;
+}
+
+h3 {
+    font-family: "Open Sans Condensed";
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    float: right;
+}
+
+
+.about {
+    text-align: left;
+}
+
+.lesson {
+    font-family: "Open Sans Condensed";
+}
+
+.menu {
+    float: right;
+    margin-right: 30px;
+}
+    
