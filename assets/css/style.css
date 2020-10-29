@@ -1,21 +1,32 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato|Open+Sans+Condensed:ital,wght@1,300&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Roboto:100,200,300,400,500,600,700|Lato:100,200,300,400,500,600,700')
 
+
+/*--------------------Colors----------------------*/
 body {
-    font-family: lato;
-    color: #6c757d;
+    font-family: 'Lato', sans-serif;
+    color: #432d54;
 }
 
 h3 {
-    font-family: "Open Sans Condensed";
+    font-family: "Roboto", sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    text-align: center;
-    float: right;
+    text-align: left;
+    float: left;
+}
+
+/*--------------------Nav------------------------*/
+
+.navbar-toggler-icon {
+
 }
 
 
+/*--------------------Containers------------------*/
+
+
 .about {
-    text-align: left;
+    text-align: center;
 }
 
 .lesson {
@@ -26,4 +37,19 @@ h3 {
     float: right;
     margin-right: 30px;
 }
-    
+
+/*--------------------Social Media----------------------*/
+.social-media{
+    text-align: center;
+}
+
+.social-media li{
+    display: inline;
+}
+
+.social-media i{
+    font-size: 150%;
+    margin: 1%;
+    padding: 5%;
+    color: #777777;
+}
