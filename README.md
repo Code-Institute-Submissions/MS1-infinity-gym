@@ -10,34 +10,22 @@ To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the ter
 
 `python3 -m http.server`
 
-A blue button should appear to click: *Make Public*,
+## Purpose
 
-Another blue button should appear to click: *Open Browser*.
+## UX
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## User Story
 
-A blue button should appear to click: *Make Public*,
+User’s goal:
 
-Another blue button should appear to click: *Open Browser*.
+As a user, I want to know what classes there are and what times.<br>
+As a user, I want to be able to locate the gym
+As a user, I want to be able contact the gym
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+As a user, I can view the classes timetable so that I can plan my workout routine around my favorite classes.
+As a user, I want to view the gym’s contact information so that I can ask about the membership or when the quietest times are.
 
-## Updates Since The Instructional Video
+Site owner’s Goal:
+As the site owner, I want to be able to inform visitors of the class timetables
+As the site owner, I want to be able to inform visitors the location of the gym
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
