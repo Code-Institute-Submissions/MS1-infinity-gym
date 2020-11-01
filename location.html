@@ -4,28 +4,177 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+<meta name="Description" content="Enter your description here"/>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.0/css/all.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:100,200,300,400,500,600,700|Lato:100,200,300,400,500,600,700" rel="stylesheet" >
 <link rel="stylesheet" href="assets/css/style.css">
-<title>Title</title>
+
+<title>MS1 | Infinity Gym</title>
 </head>
 <body>
-<article class="container mt-4">
-        <!-- Callout -->
-        <div class="jumbotron-container jumbotron-section">
-      <div class="row">
-        <div class="col-12">
-          <div class="jumbotron jumbotron-content text-center">
-            <p class="lead">Unlimited Fitness for €17.99 per month!
-            <span class="d-inline d-sm-none"><br></span>
-            <p><mark>The first month is <u>Free!</u></mark></p>
-                        <s class="d-none d-sm-inline">€17.99</s>
-            <p class="text-muted"><small>don't hesitate! call us for more information</small></p>
-            <h3 class="lead"></h3>
-        </div>
+<header>
+<!-- Nav Section -->
+    <a class="navbar-brand" href="index.html">Infinity Gym</a>
+<nav class="navbar menu navbar-expand-lg navbar-light bg-light"> 
 
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" 
+                aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+               
+        <ul class="navbar-nav">
+            <li class="nav-item">
+            <a class="nav-link" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="lessons.html">Lessons</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="timetable.html">Timetable</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="location.html">Location</a>
+            </li>
+        </ul>
+            </div>
+                
+    </nav>
+
+<!-- /.Nav Section-->
+<!-- Message Section -->
+
+
+<br>
+<br>
+
+    <article class="container mt-4">
+        <div class="jumbotron-container-lessons jumbotron-section">
+            <div class="row">
+                <div class="col-12">
+                    <div class="jumbotron jumbotron-content text-center">
+
+                                <br>
+                        <p class="text-muted"><small>Call us for more information</small></p>
+                            <button type="button" class="btn btn-outline-grey" data-toggle="modal" data-target="#signUpModal">Call Us!</button>
+                    </div>
+                </div>
+            </div>   
+        </div>  
+    </article>
+  <hr>  
+<!-- /.Message Section-->
+<!-- About Section -->
+   <section class="container about-container" id="about">
+      <div class="row text-center about-section">
+        <div class="col-12 ">
+            <img src="assets/images/logo.jpeg" alt="Gwendolyn Jo" width="200" height="200"> 
+            <h2>About Infinity Gym</h2>
+            <p>
+                Welcome to Infinity Gym, 
+                If you are a beginner or a pro u are welcome to goin our gym. <br>
+                A new gym located in Almere 20 minutes from Amsterdam.
+                Take a look at out lessons and come join us at Infinity Gym!
+            </p>
+        </div>
+      </div>
+    </section>
+<!-- /.About Section -->
+<hr>
+<!-- quote Section -->
+    <div class="container quote-container">
+        <section class="quotes">
+            <div class="row">
+                <div class="col-md-6">
+                    <h4 class="text-uppercase">Review:</h4>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="media">
+                        <div class="d-none d-sm-block">
+                            <img src="assets/images/girl.jpg" class="img-thumbnail" alt="andrea piacquadio" height=100 width=100>
+                        </div>
+                        <div class="media-body">
+                            <blockquote class="blockquote">
+                                <p>I've been been here since the beginning. I love all the group lessons.</p>
+                                <footer class="blockquote-footer"> Pricilla the Roo <cite title="google">Google</cite></footer>
+                            </blockquote>
+                        </div>
+                    </div>        
+                </div>
+            </div>
+                
+
+                <div class="row">
+                <div class="col-12 col-md-6">
+                    <div class="media">
+                        <div class="d-none d-sm-block">
+                            <img src="assets/images/boy.jpg" class="img-thumbnail" alt="andrea piacquadio" height=100 width=100>
+                        </div>
+                        <div class="media-body">
+                            <blockquote class="blockquote">
+                                <p>This is my gym! I can do my whole workout here! staff is nice and the gym is very clean!</p>
+                                <footer class="blockquote-footer"> Angelo Pireaux <cite title="google">Google</cite></footer>
+                            </blockquote>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+<!-- /.Review Section -->
+<hr>
+    
+<!-- Footer Section -->
+    <footer class="justify-content-center container-fluid">
+        <div class="row">
+            <div class="col-sm-12 social-media">
+                <ul class="list-inline">
+                    <li class="list-inline-item"><a href="https://www.facebook.com" target="_blank">
+                        <i class="fab fa-facebook" aria-hidden="true"></i></a></li>
+                            <span class="sr-only">Facebook</span>
+                    <li class="list-inline-item"><a href="https://www.instagram.com" target="_blank">
+                        <i class="fab fa-instagram" aria-hidden="true"></i></a></li>
+                            <span class="sr-only">Instagram</span>
+                    <li class="list-inline-item"><a href="https://www.twitter.com" target="_blank">
+                        <i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+                            <span class="sr-only">Twitter</span>
+                </ul>
+            </div>
+        </div>    
+    </footer>
+<!-- /.Footer Section -->
+<hr>
+ </div>
+
+    <div class="modal" tabindex="-1" role="dialog" id="signUpModal">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title">Call us!</h1>
+                    
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+      
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">0036 9384748</label>
+                    
+                        </div>
+                       
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>

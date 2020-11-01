@@ -1,7 +1,7 @@
 /*--------------------Colors----------------------*/
 body {
     font-family: 'Roboto', sans-serif;
-    color: #432d54;
+    color: #655078;
 } 
 
 /*--------------------Containers------------------*/
@@ -11,7 +11,10 @@ body {
 
 
 .about-container {
-
+.about 
+    text-align: center;
+    line-height: 4;
+}
 
 }
 
@@ -40,19 +43,39 @@ body {
     justify-content: center;
 
     position: relative;
+}
 
+.jumbotron-container-lessons {
+   height: 80vh;
+    margin-bottom: 30px;
+    background: url('../images/gym.jpg') no-repeat bottom right fixed;
+    padding: -20px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative; 
 }
 
 /*--------------------Nav------------------------*/
 
 .navbar-brand {
     float: left; 
-    margin-left: 30px;
-    font-size: 1.7rem;
     letter-spacing: 2px;
     text-transform: uppercase;
+
+    margin-left: 20px;
+    margin-top: 15px;
+    font-size: 1.7rem;
     padding:-40px;
-    color: #655078;
+    color: #948eb7;
+    line-height: 30px;
+   background-color: transparent;
 }
 
 navbar-nav {
@@ -60,14 +83,11 @@ navbar-nav {
 
 }
 .navbar-toggler {
-    background-color: transparent;
-
+   
 }
 
 .navbar {
-    padding: 10px 50px;
-    background-color: black;
-    text-transform: uppercase;
+   
 }
 
 .nav-item-list {
@@ -76,27 +96,37 @@ navbar-nav {
     justify-content: flex-end;
     font-size: 1.05rem;
     text-transform: uppercase;
+    background-color: transparent;
 }
+
 .nav-item a:hover {
     color: #948eb7;
+    background-color: transparent;
 }
 
 
-
-
-
-
-.about {
-    text-align: center;
-}
-
-.lesson {
-    font-family: "Open Sans Condensed";
-}
 
 .menu {
     float: right;
     margin-right: 0px;
+    margin-top: 0px;
+    line-height: 30px;
+    background-color: transparent;
+}
+
+
+
+
+.lesson {
+    font-family: 'Lato', sans-serif;
+}
+
+.modal-title {
+    text-align: center;
+}
+
+.modal-body {
+    text-align: center;
 }
 
 /*--------------------Social Media----------------------*/
