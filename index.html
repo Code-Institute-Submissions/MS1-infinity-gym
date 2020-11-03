@@ -17,7 +17,7 @@
 <header>
 <!-- Nav Section -->
     <a class="navbar-brand" href="">Infinity Gym</a>
-    <nav class="navbar menu navbar-expand-sm navbar-light bg-light"> 
+    <nav class="navbar menu navbar-expand-sm navbar-light bg-custom"> 
         
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" 
             aria-expanded="false" aria-label="Toggle navigation">
@@ -48,7 +48,7 @@
 
 <br>
 <br>
-    <article class="container mt-4">
+    <article class="container-fluid mt-4">
         <div class="jumbotron-container jumbotron-section">
             <div class="row">
                 <div class="col-12">
@@ -72,6 +72,7 @@
    <section class="container about-container">
       <div class="row text-center about-section">
         <div class="col-12">
+            <img src="assets/images/infinty.jpg" alt="Gwendolyn Jo" width="200" height="200"> 
             <h2>About Infinity Gym</h2>
             <p>
                 Welcome to Infinity Gym, 
@@ -79,6 +80,7 @@
                 A new gym located in Almere 20 minutes from Amsterdam.
                 Take a look at out lessons and come join us at Infinity Gym!
             </p>
+                <button type="button" class="btn btn-light btn-lg" href="lessons.html">Lessons</button>
         </div>
       </div>
     </section>
@@ -125,9 +127,27 @@
     
 <!-- Footer Section -->
 
-    <footer class="container-fluid justify-content-center">
-        <div class="row">
-            <div class="col-sm-12 social-media">
+
+<footer class="container-fluid">
+    <div class="row">
+            <div class="col-12 col-md-4 contact">
+                <h6 class="title">Contact:</h6>
+                <p>Opening Hours: <br />
+                Mon-Fri: 07:00-22:30 <br />
+                Sat-Sun: 07-00-21:00 <br />
+                Phone: 0036 9384748 
+                </p>
+            </div>
+            <div class="col-12 col-md-4 download">
+                <h6 class="title">Timetable</h6>
+                    <small>Download here.</small>
+                    <a href="documents/lesson-schedule.pdf" target="_blank" text-uppercase>
+                        <i class="fa fa-download" aria-hidden="true"></i>
+                        <span class="sr-only">Download link.</span>
+                    </a>
+            </div>
+            <div class="col-12 col-md-4 social-media">
+                <h6 class="title">Social Media</h6>
                 <ul class="list-inline">
                     <li class="list-inline-item"><a href="https://www.facebook.com" target="_blank">
                         <i class="fab fa-facebook" aria-hidden="true"></i></a></li>
@@ -140,8 +160,8 @@
                             <span class="sr-only">Twitter</span>
                 </ul>
             </div>
-        </div>    
-    </footer>
+    </div>
+</footer>
     
 <!-- /.Footer Section -->
 <hr>

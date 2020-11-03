@@ -16,13 +16,13 @@
 <body>
 <header>
 <!-- Nav Section -->
-    <a class="navbar-brand" href="index.html">Infinity Gym</a>
-<nav class="navbar menu navbar-expand-lg navbar-light bg-light"> 
-
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" 
-                aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-            </button>
+    <a class="navbar-brand" href="">Infinity Gym</a>
+    <nav class="navbar menu navbar-expand-sm navbar-light bg-custom"> 
+        
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" 
+            aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+        </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                
         <ul class="navbar-nav">
@@ -39,26 +39,28 @@
             <a class="nav-link" href="location.html">Location</a>
             </li>
         </ul>
-            </div>
+            </div> 
                 
     </nav>
 
 <!-- /.Nav Section-->
 <!-- Message Section -->
 
-
 <br>
 <br>
-
-    <article class="container mt-4">
-        <div class="jumbotron-container-lessons jumbotron-section">
+    <article class="container-fluid mt-4">
+        <div class="jumbotron-container jumbotron-section">
             <div class="row">
                 <div class="col-12">
                     <div class="jumbotron jumbotron-content text-center">
-
+                        <p class="lead"><mark>Unlimited Fitness for €17.99 per month!</mark>
+                        <span class="d-inline d-sm-none"><br></span></p>
+                        <p><mark>The first month is <u>Free!</u></mark></p>
+                            <s class="d-none d-sm-inline"><mark>€17.99</mark></s>
+                            <br>
                                 <br>
-                        <p class="text-muted"><small>Call us for more information</small></p>
-                            <button type="button" class="btn btn-outline-grey" data-toggle="modal" data-target="#signUpModal">Call Us!</button>
+                        <p class="text-muted"><small>don't hesitate! call us for more information</small></p>
+                            <button type="button" class="btn btn-outline-light" data-toggle="modal" data-target="#signUpModal">Call Us!</button>
                     </div>
                 </div>
             </div>   
@@ -67,10 +69,9 @@
   <hr>  
 <!-- /.Message Section-->
 <!-- About Section -->
-   <section class="container about-container" id="about">
+   <section class="container about-container">
       <div class="row text-center about-section">
-        <div class="col-12 ">
-            <img src="assets/images/logo.jpeg" alt="Gwendolyn Jo" width="200" height="200"> 
+        <div class="col-12">
             <h2>About Infinity Gym</h2>
             <p>
                 Welcome to Infinity Gym, 
@@ -78,6 +79,7 @@
                 A new gym located in Almere 20 minutes from Amsterdam.
                 Take a look at out lessons and come join us at Infinity Gym!
             </p>
+                <button type="button" class="btn btn-light btn-lg" href="lessons.html">Lessons</button>
         </div>
       </div>
     </section>
@@ -94,20 +96,15 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="media">
-                        <div class="d-none d-sm-block">
-                            <img src="assets/images/girl.jpg" class="img-thumbnail" alt="andrea piacquadio" height=100 width=100>
-                        </div>
-                        <div class="media-body">
+                
                             <blockquote class="blockquote">
                                 <p>I've been been here since the beginning. I love all the group lessons.</p>
-                                <footer class="blockquote-footer"> Pricilla the Roo <cite title="google">Google</cite></footer>
+                                <footer class="blockquote-footer"> Pricilla the Roo</footer>
                             </blockquote>
                         </div>
                     </div>        
                 </div>
-            </div>
-                
-
+        
                 <div class="row">
                 <div class="col-12 col-md-6">
                     <div class="media">
@@ -117,7 +114,7 @@
                         <div class="media-body">
                             <blockquote class="blockquote">
                                 <p>This is my gym! I can do my whole workout here! staff is nice and the gym is very clean!</p>
-                                <footer class="blockquote-footer"> Angelo Pireaux <cite title="google">Google</cite></footer>
+                                <footer class="blockquote-footer"> Angelo Pireaux</footer>
                             </blockquote>
                         </div>
                     </div>
@@ -128,7 +125,8 @@
 <hr>
     
 <!-- Footer Section -->
-    <footer class="justify-content-center container-fluid">
+
+    <footer class="container-fluid justify-content-center">
         <div class="row">
             <div class="col-sm-12 social-media">
                 <ul class="list-inline">
@@ -145,6 +143,7 @@
             </div>
         </div>    
     </footer>
+    
 <!-- /.Footer Section -->
 <hr>
  </div>
@@ -153,20 +152,16 @@
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h1 class="modal-title">Call us!</h1>
-                    
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
-      
                 </div>
                 <div class="modal-body">
                     <form>
+                        <h1>Call us!</h1>
                         <div class="form-group">
-                            <label for="exampleInputEmail1">0036 9384748</label>
-                    
+                            <label>0036 9384748</label>
                         </div>
-                       
                     </form>
                 </div>
             </div>
