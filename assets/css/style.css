@@ -1,7 +1,7 @@
 /*--------------------Colors----------------------*/
 body {
     font-family: 'Roboto', sans-serif;
-    color: #655078;
+    color: #432d54;
 } 
 
 /*--------------------Containers------------------*/
@@ -11,8 +11,20 @@ body {
 .timetable-container {
     text-align: center;
     line-height: 1;
+    
 }
 
+.timetable-container p {
+    text-transform: uppercase;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.table {
+    width: 100%;
+    text-align: center;
+    color: #432d54;
+}
 
 .about-container {
 .about 
@@ -20,10 +32,15 @@ body {
     line-height: 2;
 }
 
+.container-review{
+    text-align: center;
 }
-
-.quote-container {
-
+.blockquote { 
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 
 /*--------------------Jumbotron------------------*/
@@ -35,6 +52,11 @@ body {
 
 .jumbotron {
     background-color: transparent;
+}
+
+.jumbotron-content {
+    color: #fafafa;
+    margin-bottom: 50px;
 }
 
 .jumbotron-container {
@@ -71,6 +93,18 @@ body {
     position: relative;
 }
 
+/*table, th, td {
+  border: None;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 3px;
+}
+
+p {
+text-transform: uppercase;
+}*/
+
 /*--------------------Nav------------------------*/
 
 .navbar-brand {
@@ -87,10 +121,10 @@ body {
    background-color: transparent;
 }
 
-navbar-nav {
-
-
+.navbar-nav {
+    text-align: uppercase;
 }
+
 .navbar-toggler {
    
 }
@@ -113,7 +147,11 @@ navbar-nav {
     background-color: transparent;
 }
 
+/*-----------------Button------------------------*/
 
+.btn {
+    color: purple;
+}
 
 .menu {
     float: right;
@@ -124,7 +162,13 @@ navbar-nav {
 }
 
 
-
+.blockquote { 
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 40px;
+  margin-right: 40px;
+}
 
 
 .lesson {
@@ -140,6 +184,12 @@ navbar-nav {
 }
 
 /*--------------------Footer----------------------*/
+
+.footer-info {
+    background: #948eb7;
+    padding: 10px 0px;
+    color: #432d54;
+}
 
 .contact {
     font-family: 'Lato', sans-serif;
@@ -170,12 +220,14 @@ i.fa-download i:hover {
 }
 
 .social-media i{
-    font-size: 150%;
+    font-size: 120%;
     margin: 1%;
-    padding: 5%;
+    padding: 2%;
     color: #777777;
 }
 
 .social-media li a i:hover {
     color: purple;
 }
+
+/*----------Media Queries------------------*/

@@ -44,3 +44,14 @@ The text for section Y was copied from the Wikipedia article Z
 Media
 The photos used in this site were obtained from ...
 Acknowledgements
+
+
+* For the "Call Us" Button i used css-tricks
+
+* For the Quotes i used w3school
+
+* The logo i made myself
+
+* The rest off the pictures i got from pexels.com
+
+for the timetable i used w3school
