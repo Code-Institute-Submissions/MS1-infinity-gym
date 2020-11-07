@@ -5,25 +5,30 @@ body {
 } 
 
 /*--------------------Containers------------------*/
-.message-container {}
-    
 
 .timetable-container {
     text-align: center;
     line-height: 1;
-    
-}
-
-.timetable-container p {
-    text-transform: uppercase;
     margin-top: 1em;
     margin-bottom: 1em;
 }
 
+.timetable-container {
+    
+}
+
+.timetable-title {
+    letter-spacing: 1px;
+}
 .table {
     width: 100%;
     text-align: center;
     color: #432d54;
+}
+
+.weekdays {
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
 
 .about-container {
@@ -32,9 +37,14 @@ body {
     line-height: 2;
 }
 
+.location-container {
+
+}
+
 .container-review{
     text-align: center;
 }
+
 .blockquote { 
     display: block;
     margin-top: 1em;
@@ -77,9 +87,9 @@ body {
 }
 
 .jumbotron-container-lessons {
-     height: 80vh;
+    height: 80vh;
     margin-bottom: 30px;
-    background: url('../images/infinity.jpg') no-repeat bottom right fixed;
+    background: url('../images/lessons-page.jpg') no-repeat bottom right fixed;
     padding: -20px;
     -webkit-background-size: center;
     -moz-background-size: cover;
@@ -93,6 +103,39 @@ body {
     position: relative;
 }
 
+.jumbotron-container-timetable {
+    height: 80vh;
+    margin-bottom: 30px;
+    background: url('../images/timetable-page.jpg') no-repeat bottom right fixed;
+    padding: -20px;
+    -webkit-background-size: center;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.jumbotron-container-location {
+    height: 80vh;
+    margin-bottom: 30px;
+    background: url('../images/location-page.jpg') no-repeat bottom right fixed;
+    padding: -20px;
+    -webkit-background-size: center;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
 /*table, th, td {
   border: None;
   border-collapse: collapse;
@@ -130,7 +173,12 @@ text-transform: uppercase;
 }
 
 .navbar {
-   
+   padding: 10px 40px;
+}
+
+.nav-link {
+    letter-spacing: 1px;
+    text-transform: uppercase;
 }
 
 .nav-item-list {
@@ -143,13 +191,16 @@ text-transform: uppercase;
 }
 
 .nav-item a:hover {
-    color: #948eb7;
-    background-color: transparent;
+    color: purple; !important
 }
 
 /*-----------------Button------------------------*/
 
 .btn {
+    color: purple;
+}
+
+.btn .btn-light .btn-md {
     color: purple;
 }
 
@@ -182,6 +233,30 @@ text-transform: uppercase;
 .modal-body {
     text-align: center;
 }
+
+/*--------------------Location---------------------*/
+
+.location-container {
+    text-align: left;
+    margin-top: 60px;
+    margin-bottom: 100px
+}
+
+.address {
+    font-family: 'Lato', sans-serif
+    font-size: 3px;
+}
+
+.location-map {
+    width: 400;
+    height: 350;
+}
+
+.location-map img{
+    height: 100%;
+    width: 100%;
+}
+
 
 /*--------------------Footer----------------------*/
 
