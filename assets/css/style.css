@@ -200,6 +200,10 @@ text-transform: uppercase;
     color: purple;
 }
 
+.text-other {
+    color: white;
+}
+
 .btn-outline-light-other {
     color: white;
     background-color:  #948eb7;
@@ -311,3 +315,8 @@ i.fa-download i:hover {
 }
 
 /*----------Media Queries------------------*/
+@media (min-width: 768px) {
+  .custom-element {
+    color: var(--primary);
+  }
+}

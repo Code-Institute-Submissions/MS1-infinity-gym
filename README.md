@@ -1,6 +1,6 @@
 <img src="assets/images/logo.jpg" style="center;" width="300" height="250">
 
-Python3 -m http.server
+python3 -m http.server
 
 ## Welcome to Infintiy Gym
 
