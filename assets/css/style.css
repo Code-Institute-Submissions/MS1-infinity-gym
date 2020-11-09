@@ -200,6 +200,11 @@ text-transform: uppercase;
     color: purple;
 }
 
+.btn-outline-light-other {
+    color: white;
+    background-color:  #948eb7;
+}
+
 .btn .btn-light .btn-md {
     color: purple;
 }
