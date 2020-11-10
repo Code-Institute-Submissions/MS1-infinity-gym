@@ -4,7 +4,7 @@ body {
     color: #432d54;
 } 
 
-/*--------------------Containers------------------*/
+/*--------------------Timetable------------------*/
 
 .timetable-container {
     text-align: center;
@@ -31,6 +31,7 @@ body {
     letter-spacing: 1px;
 }
 
+/*--------------------Containers------------------*/
 .about-container {
 .about 
     text-align: center;
@@ -58,6 +59,10 @@ body {
 .bg-custom {
     background-color: transparent;
     color: #948eb7;
+}
+
+.text-call {
+    color: white;
 }
 
 .jumbotron {
@@ -200,10 +205,13 @@ text-transform: uppercase;
     color: purple;
 }
 
+<<<<<<< HEAD
 .text-other {
     color: white;
 }
 
+=======
+>>>>>>> c8457cb4393ef905207f25eba23f1e84ba69b570
 .btn-outline-light-other {
     color: white;
     background-color:  #948eb7;
