@@ -21,7 +21,8 @@ body {
     letter-spacing: 1px;
 }
 .table {
-    width: 100%;
+    width: 80%;
+    padding-left: 30px;
     text-align: center;
     color: #432d54;
 }
@@ -205,13 +206,10 @@ text-transform: uppercase;
     color: purple;
 }
 
-<<<<<<< HEAD
 .text-other {
     color: white;
 }
 
-=======
->>>>>>> c8457cb4393ef905207f25eba23f1e84ba69b570
 .btn-outline-light-other {
     color: white;
     background-color:  #948eb7;
@@ -323,9 +321,6 @@ i.fa-download i:hover {
 }
 
 /*----------Media Queries------------------*/
-body {
-    background-color: green;
-}
 
 @media only screen and (max-width: 820px) {
 
