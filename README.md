@@ -30,7 +30,7 @@ Site owner’s Goal:
 ## Features
 ## wireframes
 
-<a href="assets/documents/wireframes.docx">Wireframes</a>
+<a href="assets/documents/wireframes.pdf" target="_blank">Wireframes</a>
 
 <u>Navigation: </u>The navigation link styled simple and clear.
 
