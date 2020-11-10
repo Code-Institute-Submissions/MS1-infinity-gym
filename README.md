@@ -28,12 +28,15 @@ Site owner’s Goal:
 * As the site owner, I want to be able to inform visitors the location of the gym
 
 ## Features
+## wireframes
 
-Navigation: The navigation link styled simple and clear.
+<a href="assets/documents/wireframes.docx">Wireframes</a>
 
-Lessons: On this page u find all the information of the lessons that will be given during the week.
+<u>Navigation: </u>The navigation link styled simple and clear.
 
-Timetable: For the timetable I created a simple table using a timetable from [W3schools](https://www.w3schools.com)this allows users to find the classes, times and locations of the rooms.
+<u>Lessons:</u> On this page u find all the information of the lessons that will be given during the week.
+
+<u>Timetable:</u> For the timetable I created a simple table using a timetable from [W3schools](https://www.w3schools.com)this allows users to find the classes, times and locations of the rooms.
 
 
 ## Technologies Used
