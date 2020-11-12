@@ -4,7 +4,7 @@ python3 -m http.server
 
 ## Welcome to Infintiy Gym
 ---
-*** Infinity Gym is a fictional gym. I set this up gym for my MS1 project ***
+*** Infinity Gym is a fictional gym. I set this up gym for my MS1 project *** <br>
 Infinity Gym is a gym and fitness center, this gym is open for about two months. The gym is located in Almere Poort about 20 minutes from Amsterdam. The gym has four rooms, two empty rooms for group lessons, a spinning room and an extensive fitness room.
 The guests can therefore enjoy a good workout and / or (group) lessons here.
 
@@ -28,7 +28,7 @@ Site owner’s Goal:
 * As the site owner, I want to be able to inform visitors the location of the gym
 
 
-## wireframes
+## Wireframes
 ---
 
 <a href="assets/documents/wireframes.pdf" target="_blank">Wireframes</a>
