@@ -322,9 +322,73 @@ i.fa-download i:hover {
 
 /*----------Media Queries------------------*/
 
-@media only screen and (max-width: 820px) {
+@media only screen and (max-width: 990px) {
 
     body {
-        background-color: yellow;
+        background-color: #fafafa;
     }
+    .jumbotron-container {
+    height: 80vh;
+    margin-bottom: 30px;
+    background: url('../images/bootcamp.jpg') no-repeat bottom right fixed;
+    padding: -20px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    
+}
+
+.jumbotron-container-lessons {
+    height: 80vh;
+    margin-bottom: 30px;
+    background: url('../images/lessons-page.jpg') no-repeat bottom right fixed;
+    padding: -20px;
+    -webkit-background-size: center;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.jumbotron-container-timetable {
+    height: 80vh;
+    margin-bottom: 30px;
+    background: url('../images/timetable-page.jpg') no-repeat bottom right fixed;
+    padding: -20px;
+    -webkit-background-size: center;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.jumbotron-container-location {
+    height: 80vh;
+    margin-bottom: 30px;
+    background: url('../images/location-page.jpg') no-repeat bottom right fixed;
+    padding: -20px;
+    -webkit-background-size: center;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
 }
