@@ -4,6 +4,16 @@ body {
     color: #432d54;
 } 
 
+/*-------------------Lessons----------------------*/
+.lessons-title {
+    letter-spacing: 1px;
+    color: #fafafa;
+}
+
+.text-other-lessons {
+    color: black;
+}
+
 /*--------------------Timetable------------------*/
 
 .timetable-container {
@@ -217,6 +227,8 @@ text-transform: uppercase;
     color: white;
 }
 
+
+
 .btn-outline-light-other {
     color: white;
     background-color:  #948eb7;
@@ -257,6 +269,11 @@ text-transform: uppercase;
 }
 
 /*--------------------Location---------------------*/
+
+.location-title {
+    letter-spacing: 1px;
+    
+}
 
 .location-container {
     text-align: left;
@@ -413,6 +430,7 @@ i.fa-download i:hover {
 .timetable-title {
     letter-spacing: 1px;
 }
+
 .table {
     width: 80%;
     padding-left: 30px;
