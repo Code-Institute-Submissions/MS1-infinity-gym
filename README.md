@@ -105,6 +105,19 @@ During this process I modified the website several times and it doesn't look qui
 
 ## Deployment
 ---
+For the deployment of infinity Gym website, I used Github pages. follow the next steps to my URL:
+
+1.	Log in to my GitHub account and find my repository (gwenjo/MS1-infinity-gym), open the github page.
+2.	Click on Settings and find GitHub Pages (see photos, GitHub 1 and GitHub 2)
+3.	Select ‘None’ in the dropdown 
+4.	Then select ‘master’ and “Save”
+5.	Now select ‘Branch: Master
+6.	In the green bar you will see the URL: https://gwenjo.github.io/MS1-infinity-gym/
+
+
+[For Infinity Gym live! Click here] (https://gwenjo.github.io/MS1-infinity-gym/)
+
+U can find information about cloning or downloading a repository [click here] (https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
 ## Credits
 ---
