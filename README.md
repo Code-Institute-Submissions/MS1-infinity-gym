@@ -40,32 +40,34 @@ Site owner’s Goal:
 
 <u>Lessons:</u> On this page u find all the information of the lessons that will be given during the week.
 
-<u>Timetable:</u> For the timetable I created a simple table using a timetable from [W3schools](https://www.w3schools.com)this allows users to find the classes, times and locations of the rooms.
+<u>Timetable:</u> For the timetable I created a simple table using a timetable example  from [Bootstrap](https://www.bootstrap.com)
+this allows users to find the classes, times and locations of the rooms.
 
 ### Existing Features ###
-On each page you will find:
+On each page you will find a:
 Header:
-• Infinity Gym Logo - This is shown in the center of the page
+• Infinity Gym Logo - This is shown in the center of the page.
 • Navigationbar - This is located at the top right of the page. Users can easily navigate through this.
-• Call us buttons - are on every page so that the (new) customer's number of the gym is easy to find.
+• Call us buttons - On every page there is an "Call Us" Button so that (new) customer's can find the number easily.
 
 Footer:
-• Contact - this contains the opening hours and again the telephone number of Infinity Gym
-• Timetable Upload - guests can download and / or print the timetable via this link
-• Social Media - These are on every page. and give all users access to the social platforms
-• Timetable Upload - guests can download and / or print the timetable via this link
+• Contact - This contains the opening hours and again the telephone number of Infinity Gym
+• Timetable Upload - Guests can download and / or print the timetable via this link
+• Social Media - Gives alle users acces to our social Media platforms. 
 
-Home-Page
+
+Home-Page:
 • About - A small intro about the gym
-• reviews - guests who want to tell something about Infinity Gym
+• Reviews - Guests who want to tell something about their experiences of Infinity Gym
 
-Lessons-Page
+Lessons-Page:
 • A brief explanation of the classes available within Infinity Gym
 
-Timetable-Page
-• A week's class schedule with times and locations where classes are conducted. It is also indicated how many people can participate in the lesson.
+Timetable-Page:
+• A week's class schedule with times and locations where classes are conducted. It is also 
+indicated how many people can participate in the lesson due to Covid-19.
 
-Location-Page
+Location-Page:
 • This page contains the address and a small map of the location.
 
 ## Technologies Used
@@ -85,7 +87,7 @@ Location-Page
 
 * The rest off the pictures i got from pexels.com
 
-* for the timetable i used w3school
+* for the timetable i used bootstrap
 
 ## Tools used
 ---
@@ -108,16 +110,16 @@ During this process I modified the website several times and it doesn't look qui
 For the deployment of infinity Gym website, I used Github pages. follow the next steps to my URL:
 
 1.	Log in to my GitHub account and find my repository (gwenjo/MS1-infinity-gym), open the github page.
-2.	Click on Settings and find GitHub Pages (see photos, [GitHub 1](/assets/documents/github1.jpg) and [GitHub 2](./assets/documents/github1.png))
+2.	Click on Settings and find GitHub Pages (see photos, [GitHub 1](/assets/documents/github1.jpg) and [GitHub 2](./assets/documents/github2.png))
 3.	Select ‘None’ in the dropdown 
 4.	Then select ‘master’ and “Save”
 5.	Now select ‘Branch: Master
 6.	In the green bar you will see the URL: https://gwenjo.github.io/MS1-infinity-gym/
 
 
-[For Infinity Gym live! Click here] (https://gwenjo.github.io/MS1-infinity-gym/)
+For Infinity Gym live! [Click here](https://gwenjo.github.io/MS1-infinity-gym/)
 
-U can find information about cloning or downloading a repository [click here] (https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+U can find information about cloning or downloading a repository [Click here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
 ## Credits
 ---
@@ -126,10 +128,12 @@ U can find information about cloning or downloading a repository [click here] (h
 •	All the text and stories were written by me.
 
 # Media
-•	The photographs I used were obtained from pexels.com. I’ve used the photo’s  from different photographers such as
+•	The photographs I used were obtained from pexels.com. I’ve used the photo’s from different photographers such as;
 -	Leon Martinez
 -	Andrea Piacquadio
 -	Cottonbro
+
+
 •	The Logo Infinity Gym I made myself.
 
 
