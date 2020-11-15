@@ -15,13 +15,10 @@ The guests can therefore enjoy a good workout and / or (group) lessons here.
 Infinity Gym would like to increase its customer base through a free first month promotion.
 
 User’s goal:
-
-* As a user, I want to know what classes there are and what times.<br>
+* As a user, I want to know what lessons there are.<br>
+* As a user, I want to know the classes timetable so that I can plan my workout routine around my favorite classes.
 * As a user, I want to be able to locate the gym
-* As a user, I want to be able contact the gym
-
-* As a user, I can view the classes timetable so that I can plan my workout routine around my favorite classes.
-* As a user, I want to view the gym’s contact information so that I can ask about the membership or when the quietest times are.
+* As a user, I want to view the gym’s contact information so that I can ask about the membership.
 
 Site owner’s Goal:
 * As the site owner, I want to be able to inform visitors of the class timetables
