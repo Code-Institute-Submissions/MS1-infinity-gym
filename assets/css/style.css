@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
 /*--------------------Colors----------------------*/
 body {
     font-family: 'Roboto', sans-serif;
@@ -248,7 +250,7 @@ text-transform: uppercase;
 
 
 .lesson {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .modal-title {
@@ -340,41 +342,38 @@ i.fa-download i:hover {
 
 @media only screen and (max-width: 1024px) {
 
-    /*style rules for screens> 720px and ≤ 1024px wide*/
-
-    body {
-        background-color: #fafafa;
-    }
+    /*style rules for screens> 768px and ≤ 1024px wide*/
 
     .jumbotron-container {
-    height: 786px;
-    width: 100%;
     background: url('../images/bootcamp.jpg') no-repeat bottom right fixed;
-    padding: -20px;
+    height: 768px;
+    width: 100%;
+    background-position: center;
     background-size: cover;
-    }
+    
+}
 
 .jumbotron-container-lessons {
-    height: 812px;
-    width: 100%;
     background: url('../images/lessons-page.jpg') no-repeat bottom right fixed;
-   
+    height: 768px;
+    width: 100%;
+    background-position: center;
     background-size: cover;
-    }
+}
 
 .jumbotron-container-timetable {
-    height: 812px;
-    width: 100%px;
     background: url('../images/timetable-page.jpg') no-repeat bottom right fixed;
-    padding: -20px;
+    height: 768px;
+    width: 100%;
+    background-position: center;
     background-size: cover;
-    }
+}
 
 .jumbotron-container-location {
-    height: 812px;
-    width: 100%;
     background: url('../images/location-page.jpg') no-repeat bottom right fixed;
-    padding: -20px;
+    height: 768px;
+    width: 100%;
+    background-position: center;
     background-size: cover;
     }
 }
