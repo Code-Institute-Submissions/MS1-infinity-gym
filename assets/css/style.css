@@ -19,15 +19,15 @@ body {
 /*--------------------Timetable------------------*/
 
 .timetable-container {
+    -webkit-box-align: left;
+    -ms-flex-align: left;
+    align-items: left;
     text-align: center;
     line-height: 1;
     margin-top: 1em;
     margin-bottom: 1em;
 }
 
-.timetable-container {
-
-}
 
 .timetable-title {
     letter-spacing: 1px;
@@ -99,7 +99,7 @@ body {
 .jumbotron-container {
     height: 80vh;
     margin-bottom: 30px;
-    background: url('../images/bootcamp.jpg') no-repeat bottom right fixed;
+    background: url('../images/bootcamp.jpg') no-repeat center fixed;
     width: 100%;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -344,7 +344,7 @@ i.fa-download i:hover {
     /*style rules for screens> 768px and ≤ 1024px wide*/
 
     .jumbotron-container {
-    background: url('../images/bootcamp.jpg') no-repeat bottom right fixed;
+    background: url('../images/bootcamp.jpg') no-repeat;
     height: 768px;
     width: 100%;
     background-position: center;
@@ -353,7 +353,7 @@ i.fa-download i:hover {
 }
 
 .jumbotron-container-lessons {
-    background: url('../images/lessons-page.jpg') no-repeat bottom right fixed;
+    background: url('../images/lessons-page.jpg') no-repeat;
     height: 768px;
     width: 100%;
     background-position: center;
@@ -361,7 +361,7 @@ i.fa-download i:hover {
 }
 
 .jumbotron-container-timetable {
-    background: url('../images/timetable-page.jpg') no-repeat bottom right fixed;
+    background: url('../images/timetable-page.jpg') no-repeat;
     height: 768px;
     width: 100%;
     background-position: center;
@@ -369,7 +369,7 @@ i.fa-download i:hover {
 }
 
 .jumbotron-container-location {
-    background: url('../images/location-page.jpg') no-repeat bottom right fixed;
+    background: url('../images/location-page.jpg') no-repeat;
     height: 768px;
     width: 100%;
     background-position: center;
@@ -392,35 +392,35 @@ i.fa-download i:hover {
 
     /* style rules for screens ≤ 320px wide */
 .jumbotron-container {
-    background: url('../images/bootcamp.jpg') no-repeat bottom right fixed;
+    background: url('../images/bootcamp.jpg') no-repeat;
     height: 320px;
     width: 100%;
-    background-position: center;
+    background-position: cover;
     background-size: cover;
     
 }
 
 .jumbotron-container-lessons {
-    background: url('../images/lessons-page.jpg') no-repeat bottom right fixed;
+    background: url('../images/lessons-page.jpg') no-repeat;
     height: 320px;
     width: 100%;
-    background-position: center;
+    background-position: cover;
     background-size: cover;
 }
 
 .jumbotron-container-timetable {
-    background: url('../images/timetable-page.jpg') no-repeat bottom right fixed;
+    background: url('../images/timetable-page.jpg') no-repeat;
     height: 320px;
     width: 100%;
-    background-position: center;
+    background-position: cover;
     background-size: cover;
 }
 
 .jumbotron-container-location {
-    background: url('../images/location-page.jpg') no-repeat bottom right fixed;
-    height: 320px;
+    background: url('../images/location-page.jpg') no-repeat;
+    height: 100vh;
     width: 100%;
-    background-position: center;
+    background-position: cover;
     background-size: cover;
     }
 
