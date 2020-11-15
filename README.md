@@ -108,7 +108,7 @@ During this process I modified the website several times and it doesn't look qui
 For the deployment of infinity Gym website, I used Github pages. follow the next steps to my URL:
 
 1.	Log in to my GitHub account and find my repository (gwenjo/MS1-infinity-gym), open the github page.
-2.	Click on Settings and find GitHub Pages (see photos, [GitHub 1](./assets/documents/github1.png) and [GitHub 1](./assets/documents/github1.png))
+2.	Click on Settings and find GitHub Pages (see photos, [GitHub 1](/assets/documents/github1.jpg) and [GitHub 2](./assets/documents/github1.png))
 3.	Select ‘None’ in the dropdown 
 4.	Then select ‘master’ and “Save”
 5.	Now select ‘Branch: Master
