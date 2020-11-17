@@ -35,13 +35,11 @@ body {
 
 .table {
     width: 100%;
-    padding-left: 140;
+    padding-left: 30%;
     padding-right: 30%;
     text-align: center;
     color: #432d54;
 }
-
-
 
 .table-column {
     padding: 0;
@@ -54,8 +52,8 @@ body {
 }
 
 /*--------------------Containers------------------*/
-.about-container {
-.about 
+.about-container 
+.about {
     text-align: center;
 }
 
@@ -254,7 +252,6 @@ text-transform: uppercase;
 
 }
 
-
 .lesson {
     font-family: 'Roboto', sans-serif;
 }
@@ -280,8 +277,8 @@ text-transform: uppercase;
 }
 
 .address {
-    font-family: 'Roboto', sans-serif
-    font-size: 3px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
 }
 
 .address-title h6 {
@@ -289,12 +286,9 @@ text-transform: uppercase;
 }
 
 .location-map {
-    width: 400;
-    height: 350;
+    width: 400px;
+    height: 350px;
 }
-
-
-
 
 /*--------------------Footer----------------------*/
 
@@ -403,7 +397,7 @@ i.fa-download i:hover {
     background: url('../images/bootcamp.jpg') no-repeat;
     height: 290px;
     width: 100%;
-    background-position: cover;
+    background-position: center;
     background-size: cover;
 }
 
@@ -411,7 +405,7 @@ i.fa-download i:hover {
     background: url('../images/lessons-page.jpg') no-repeat;
     height: 290px;
     width: 100%;
-    background-position: cover;
+    background-position: center;
     background-size: cover;
 }
 
@@ -419,7 +413,7 @@ i.fa-download i:hover {
     background: url('../images/timetable-page.jpg') no-repeat;
     height: 320px;
     width: 100%;
-    background-position: cover;
+    background-position: center;
     background-size: cover;
 }
 
@@ -427,7 +421,7 @@ i.fa-download i:hover {
     background: url('../images/location-page.jpg') no-repeat;
     height: 320px;
     width: 100%;
-    background-position: cover;
+    background-position: center;
     background-size: cover;
     color: #fafafa;
     }
