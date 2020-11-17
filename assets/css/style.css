@@ -23,7 +23,6 @@ body {
 .timetable-container {
 	-webkit-box-align: left;
 	-ms-flex-align: left;
-	align-items: left;
 	text-align: center;
 	line-height: 1;
 	margin-top: 1em;
