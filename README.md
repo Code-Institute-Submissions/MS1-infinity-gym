@@ -10,9 +10,9 @@ The guests can therefore enjoy a good workout and / or (group) lessons here.
 
 ## User Experience (UX)
 ---
-## User Story
----
+ 
 Infinity Gym would like to increase its customer base through a free first month promotion.
+User Story
 
 User’s goal:
 * As a user, I want to know what classes available in the gym.
@@ -126,14 +126,15 @@ U can find information about cloning or downloading a repository [Click here](ht
 
 # Media
 •	The photographs I used were obtained from pexels.com. I’ve used the photo’s from different photographers such as;
--	Leon Martinez
--	Andrea Piacquadio
+-	Leon Martinez (bootcamp.jpg, )
+-	Andrea Piacquadio ()
 -	Cottonbro
--   William Choquette
--   Scott Webb
+-   William Choquette (angelo.jpg)
+-   Scott Webb (bootcamp1.jpg)
+-   Maarten van den Heuvel (spinning.jpg)
 
 
-•	The Logo Infinity Gym I made myself.
+•	The Infinity Gym Logo I made myself. (logo.jpg)
 
 
 # Acknowledgements
