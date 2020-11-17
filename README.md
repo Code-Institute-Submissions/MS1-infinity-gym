@@ -129,6 +129,8 @@ U can find information about cloning or downloading a repository [Click here](ht
 -	Leon Martinez
 -	Andrea Piacquadio
 -	Cottonbro
+-   William Choquette
+-   Scott Webb
 
 
 •	The Logo Infinity Gym I made myself.

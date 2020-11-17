@@ -96,6 +96,10 @@ body {
     margin-bottom: 50px;
 }
 
+.jumbotron-content h2 {
+    font-weight: bold;
+}
+
 .jumbotron-container {
     height: 80vh;
     margin-bottom: 30px;
@@ -222,7 +226,7 @@ text-transform: uppercase;
 
 
 
-.btn-outline-light-other {
+.btn-other {
     color: white;
     background-color:  #948eb7;
 }
