@@ -388,7 +388,7 @@ i.fa-download i:hover {
 
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 375px) {
 
     /* style rules for screens ≤ 320px wide */
 .jumbotron-container {
@@ -418,10 +418,11 @@ i.fa-download i:hover {
 
 .jumbotron-container-location {
     background: url('../images/location-page.jpg') no-repeat;
-    height: 100vh;
+    height: 320px;
     width: 100%;
     background-position: cover;
     background-size: cover;
+    color: #fafafa;
     }
 
 .timetable-container {
