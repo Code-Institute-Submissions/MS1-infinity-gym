@@ -382,15 +382,16 @@ i.fa-download i:hover {
     }
 }
 
-}
-
-
-}
-
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 414px) {
 
     /*style rules for screens> 320px and ≤ 720px wide*/
-
+.jumbotron-container {
+    background: url('../images/bootcamp.jpg') no-repeat;
+    height: 290px;
+    width: 100%;    
+    background-position: cover;
+    background-size: cover;
+}
 }
 
 @media only screen and (max-width: 375px) {
@@ -398,16 +399,15 @@ i.fa-download i:hover {
     /* style rules for screens ≤ 320px wide */
 .jumbotron-container {
     background: url('../images/bootcamp.jpg') no-repeat;
-    height: 320px;
+    height: 290px;
     width: 100%;
     background-position: cover;
     background-size: cover;
-    
 }
 
 .jumbotron-container-lessons {
     background: url('../images/lessons-page.jpg') no-repeat;
-    height: 320px;
+    height: 290px;
     width: 100%;
     background-position: cover;
     background-size: cover;
@@ -440,7 +440,7 @@ i.fa-download i:hover {
 
 .timetable-column {
     text-align: center;
-    
+
 }
 
 .timetable-title {
@@ -452,6 +452,7 @@ i.fa-download i:hover {
     padding-left: 30px;
     text-align: center;
     color: #432d54;
+    font-size: 80%;
 }
 
 .weekdays {
