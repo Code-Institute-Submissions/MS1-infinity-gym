@@ -40,6 +40,9 @@ Site owner’s Goal:
 <u>Timetable:</u> For the timetable I created a simple table using a timetable example  from [Bootstrap](https://www.bootstrap.com)
 this allows users to find the classes, times and locations of the rooms.
 
+Future features
+
+
 ### Existing Features ###
 On each page you will find a:
 Header:
@@ -89,18 +92,37 @@ Location-Page:
 ## Tools used
 ---
 
-* Balsamiq:
-  Before I started the website I used the Balsamiq software to set up my wireframe. <br>
-
+** [Balsamiq](https://balsamiq.com/) - Before I started the website I used the Balsamiq software to set up my wireframe. <br>
 During this process I modified the website several times and it doesn't look quite the same as the wireframes.
 
 * Adobe Color
+
+https://www.freeformatter.com/css-beautifier.html
 
 ## Typography
 ---
 
 ## Testing
 ---
+W3C HTML Validator
+
+The following pages were passed through the W3C HTML validator:
+*   index.html
+*   lessons.html
+*   timetable.html
+*   location.html
+
+Some errors were found. These have been corrected, then it has 
+gone through the validator again. All the pages passed with no errors or warnings.
+
+W3C CSS Validator
+
+The following pages were passed through the W3C CSS validator:
+
+*   style.css
+
+Some errors were found. These have been corrected, then it has gone through 
+the validator again. The page passed with no errors or warnings.
 
 ## Deployment
 ---
@@ -138,6 +160,6 @@ U can find information about cloning or downloading a repository [Click here](ht
 
 
 # Acknowledgements
-I received inspiration for this project from X
+I want to thank my mentor for givin met good advice and confidence i could do it.
 
 
