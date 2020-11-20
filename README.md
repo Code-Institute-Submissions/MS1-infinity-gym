@@ -102,6 +102,8 @@ https://www.freeformatter.com/css-beautifier.html
 ## Typography
 ---
 
+For the typography i used Roboto with a backup font of Sans-serif.
+
 ## Testing
 ---
 W3C HTML Validator
@@ -123,6 +125,8 @@ The following pages were passed through the W3C CSS validator:
 
 Some errors were found. These have been corrected, then it has gone through 
 the validator again. The page passed with no errors or warnings.
+
+An extended version of the tested website can be found here
 
 ## Deployment
 ---
@@ -147,7 +151,8 @@ U can find information about cloning or downloading a repository [Click here](ht
 •	All the text and stories were written by me.
 
 # Media
-•	The photographs I used were obtained from pexels.com. I’ve used the photo’s from different photographers such as;
+•	The photographs I used were obtained from [Pexels](https://www.pexels.com/) I’ve used the photo’s from different photographers such as;
+
 -	Leon Martinez (bootcamp.jpg, )
 -	Andrea Piacquadio ()
 -	Cottonbro
