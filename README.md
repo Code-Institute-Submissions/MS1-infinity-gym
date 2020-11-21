@@ -112,7 +112,6 @@ pop-up. The only information you will find in this pop-up is the telephone numbe
 
 * For the Quotes i used w3school
 
-* for the timetable i used bootstrap
 
 ## Tools used
 ---
@@ -133,7 +132,8 @@ During this process I modified the website several times and it doesn't look qui
 
 ** [W3School](https://www.w3schools.com/) +[Bootstrap](https://getbootstrap.com/)
 -   The first schedule I made was from W3School. but I didn't like the outcome of the table. 
-    Then I continued my search and found one on Bootstrap 
+    Then I continued my search and found one on Bootstrap.
+-   For the Quotes I used blockquotes from W3School.
 
 ** [Css Beautifier](https://www.freeformatter.com/css-beautifier.html)
 -   I used this online tool to beautify/format my CSS code.
