@@ -110,8 +110,6 @@ can then leave their e-mail address and the customer list can be expanded on thi
 For the button "Call us" I used the "model code" of css-tricks, I changed this to a "call us" 
 pop-up. The only information you will find in this pop-up is the telephone number of Infinity Gym
 
-* For the Quotes i used w3school
-
 
 ## Tools used
 ---
@@ -145,7 +143,7 @@ For the typography i used Roboto with a backup font of Sans-serif.
 
 ## Testing
 ---
-W3C HTML Validator
+#### W3C HTML Validator
 
 The following pages were passed through the W3C HTML validator:
 *   index.html
@@ -153,17 +151,17 @@ The following pages were passed through the W3C HTML validator:
 *   timetable.html
 *   location.html
 
-Some errors were found. These have been corrected, then it has 
-gone through the validator again. All the pages passed with no errors or warnings.
+Some errors were found. This has been corrected and passed through 
+the W3C HTML validator again. The pages passed without errors or warnings.
 
-W3C CSS Validator
+#### W3C CSS Validator
 
 The following pages were passed through the W3C CSS validator:
 
 *   style.css
 
-Some errors were found. These have been corrected, then it has gone through 
-the validator again. The page passed with no errors or warnings.
+Some errors were found. This has been corrected and passed through 
+the W3C CSS validator again. The page passed without errors or warnings.
 
 An extended version of the tested website can be found [[here](assets/documents/testing.pdf)
 
