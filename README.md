@@ -112,10 +112,6 @@ pop-up. The only information you will find in this pop-up is the telephone numbe
 
 * For the Quotes i used w3school
 
-* The logo i made myself
-
-* The rest off the pictures i got from pexels.com
-
 * for the timetable i used bootstrap
 
 ## Tools used
@@ -126,13 +122,21 @@ pop-up. The only information you will find in this pop-up is the telephone numbe
 During this process I modified the website several times and it doesn't look quite the same as the wireframes.
 
 ** [PicCollage](https://piccollage.com/)
--   For the Logo I have used an app on my phone. So that I could type the name (Infinity Gym) and easily could crop my logo.
+-   I made the logo myself. For the Logo I have used an app on my Iphone. So that I could type the name 
+(Infinity Gym) and easily could crop my logo.
+
+** [Pexels](https://pexels.com/)
+-   I've used photos from photographers who posted photos on pexels.
 
 ** [Adobe Color](https://color.adobe.com/nl/create/color-wheel) 
--   For the color of the font i used Adobe Color
+-   For the font-color I used Adobe Color. [Click here](assets/documents/adobe-color.jpg)
+
+** [W3School](https://www.w3schools.com/) +[Bootstrap](https://getbootstrap.com/)
+-   The first schedule I made was from W3School. but I didn't like the outcome of the table. 
+    Then I continued my search and found one on Bootstrap 
 
 ** [Css Beautifier](https://www.freeformatter.com/css-beautifier.html)
--   This online tool lets you beautify/format your CSS code.
+-   I used this online tool to beautify/format my CSS code.
 
 ## Typography
 ---
@@ -193,7 +197,6 @@ U can find information about cloning or downloading a repository [here](https://
 -   William Choquette (angelo.jpg)
 -   Scott Webb (bootcamp1.jpg)
 -   Maarten van den Heuvel (spinning.jpg)
-
 
 •	The Infinity Gym Logo I made myself. (logo.jpg)
 
