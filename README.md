@@ -54,18 +54,18 @@ Future features
 
 On each page you will find a:
 
-Navigationbar:
+##### Navigationbar:
 
 The main navigation contains all links to every page on the website. The - Lessons, - Timetable 
 and - Location page. This is located at the top right of the page. Users can easily navigate through this.
 
-Header:
+##### Header:
 
 • Infinity Gym Logo - This is shown in the center of the page. 
 
 • Call us buttons - On every page there is an "Call Us" Button so that (new) customer's can find the number easily.
 
-Footer:
+##### Footer:
 
 • Contact - This contains the opening hours and again the telephone number of Infinity Gym
 
@@ -80,16 +80,16 @@ Home-Page:
 • About - A small intro about the gym
 • Reviews - Guests who want to tell something about their experiences of Infinity Gym
 
-Lessons-Page:
+##### Lessons-Page:
 
 • A brief explanation of the classes available within Infinity Gym
 
-Timetable-Page:
+##### Timetable-Page:
 
 • A week's class schedule with times and locations where classes are conducted. It is also 
 indicated how many people can participate in the lesson due to Covid-19.
 
-Location-Page:
+##### Location-Page:
 
 • This page contains the address and a small map of the location.
 
@@ -106,9 +106,6 @@ can then leave their e-mail address and the customer list can be expanded on thi
 * HTML5 
 * CSS3
 * Bootstrap 4
-
-For the button "Call us" I used the "model code" of css-tricks, I changed this to a "call us" 
-pop-up. The only information you will find in this pop-up is the telephone number of Infinity Gym
 
 
 ## Tools used
@@ -128,13 +125,17 @@ During this process I modified the website several times and it doesn't look qui
 ** [Adobe Color](https://color.adobe.com/nl/create/color-wheel) 
 -   For the font-color I used Adobe Color. [Click here](assets/documents/adobe-color.jpg)
 
-** [W3School](https://www.w3schools.com/) +[Bootstrap](https://getbootstrap.com/)
+** [W3School](https://www.w3schools.com/) + [Bootstrap](https://getbootstrap.com/)
 -   The first schedule I made was from W3School. but I didn't like the outcome of the table. 
     Then I continued my search and found one on Bootstrap.
 -   For the Quotes I used blockquotes from W3School.
 
 ** [Css Beautifier](https://www.freeformatter.com/css-beautifier.html)
 -   I used this online tool to beautify/format my CSS code.
+
+For the button "Call us" I used the "model code" of css-tricks, I changed this to a "call us" 
+pop-up. The only information you will find in this pop-up is the telephone number of Infinity Gym
+
 
 ## Typography
 ---
