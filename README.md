@@ -4,13 +4,16 @@ python3 -m http.server
 
 ## Welcome to Infintiy Gym
 ---
-*** Infinity Gym is a fictional gym. I set this up gym for my MS1 project *** <br>
+*** Infinity Gym is a fictional gym. I set this up gym for my MS1 project *** 
+
 Infinity Gym is a gym and fitness center, this gym is open for about two months. The gym is located in Almere Poort about 20 minutes from Amsterdam. The gym has four rooms, two empty rooms for group lessons, a spinning room and an extensive fitness room.
 The guests can therefore enjoy a good workout and / or (group) lessons here.
 
 ## User Experience (UX)
 ---
- 
+Mockup
+
+
 Infinity Gym would like to increase its customer base through a free first month promotion.
 User Story
 
@@ -28,7 +31,7 @@ Site owner’s Goal:
 ## Wireframes
 ---
 
-<a href="assets/documents/wireframes.pdf" target="_blank">Wireframes</a>
+[All wireframes can be viewed here](assets/documents/wireframes.pdf)
 
 
 ## Features
@@ -45,18 +48,26 @@ Future features
 
 ### Existing Features ###
 On each page you will find a:
+
 Header:
+
 • Infinity Gym Logo - This is shown in the center of the page.
+
 • Navigationbar - This is located at the top right of the page. Users can easily navigate through this.
+
 • Call us buttons - On every page there is an "Call Us" Button so that (new) customer's can find the number easily.
 
 Footer:
+
 • Contact - This contains the opening hours and again the telephone number of Infinity Gym
+
 • Timetable Upload - Guests can download and / or print the timetable via this link
+
 • Social Media - Gives alle users acces to our social Media platforms. 
 
 
 Home-Page:
+
 • About - A small intro about the gym
 • Reviews - Guests who want to tell something about their experiences of Infinity Gym
 
@@ -69,6 +80,10 @@ indicated how many people can participate in the lesson due to Covid-19.
 
 Location-Page:
 • This page contains the address and a small map of the location.
+
+## Features Left to Implement
+
+
 
 ## Technologies Used
 ---
@@ -92,12 +107,15 @@ Location-Page:
 ## Tools used
 ---
 
-** [Balsamiq](https://balsamiq.com/) - Before I started the website I used the Balsamiq software to set up my wireframe. <br>
+** [Balsamiq](https://balsamiq.com/) 
+-   Before I started the website I used the Balsamiq software to set up my wireframe. <br>
 During this process I modified the website several times and it doesn't look quite the same as the wireframes.
 
-* Adobe Color
+** [Adobe Color](https://color.adobe.com/nl/create/color-wheel) 
+-   For the color of the font i used Adobe Color
 
-https://www.freeformatter.com/css-beautifier.html
+** [Css Beautifier](https://www.freeformatter.com/css-beautifier.html)
+-   This online tool lets you beautify/format your CSS code.
 
 ## Typography
 ---
@@ -137,20 +155,19 @@ For the deployment of infinity Gym website, I used Github pages. follow the next
 3.	Select ‘None’ in the dropdown 
 4.	Then select ‘master’ and “Save”
 5.	Now select ‘Branch: Master
-6.	In the green bar you will see the URL: https://gwenjo.github.io/MS1-infinity-gym/
+6.	In the green bar you will find the URL: https://gwenjo.github.io/MS1-infinity-gym/
 
+For the live version of Infinity Gym! [Click here](https://gwenjo.github.io/MS1-infinity-gym/)
 
-For Infinity Gym live! [Click here](https://gwenjo.github.io/MS1-infinity-gym/)
-
-U can find information about cloning or downloading a repository [Click here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+U can find information about cloning or downloading a repository [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
 ## Credits
 ---
 
-# Content
+### Content
 •	All the text and stories were written by me.
 
-# Media
+### Media
 •	The photographs I used were obtained from [Pexels](https://www.pexels.com/) I’ve used the photo’s from different photographers such as;
 
 -	Leon Martinez (bootcamp.jpg, )
@@ -164,7 +181,8 @@ U can find information about cloning or downloading a repository [Click here](ht
 •	The Infinity Gym Logo I made myself. (logo.jpg)
 
 
-# Acknowledgements
+### Acknowledgements
+
 I want to thank my mentor for givin met good advice and confidence i could do it.
 
 
