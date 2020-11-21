@@ -37,6 +37,17 @@ Site owner’s Goal:
 
 All wireframes can be viewed [here](assets/documents/wireframes.pdf)
 
+## Setup
+
+When I started on this project I already knew what I wanted. A simple website where everything is clear.
+
+Since I wanted to do everything perfectly in my head, I started over more than three times.
+I've been working on multiple screens and got confused and forgot to save the pages in "git add". So, I couldn't save it after a while.
+
+After talking to my mentor, she told me I only committed 11 times. This was not my intention, but my own mistake. 
+I was able to restore my gitpod after saving everything, then clearing all .html pages, then committed + pushing everything, then creating new .html pages. 
+
+That way I could record everything again. Therefore, there is probably not enough committed pages.
 
 ## Features
 ---
@@ -47,8 +58,7 @@ All wireframes can be viewed [here](assets/documents/wireframes.pdf)
 <u>Timetable:</u> For the timetable I created a simple table using a timetable example  from [Bootstrap](https://www.bootstrap.com)
 this allows users to find the classes, times and locations of the rooms.
 
-Future features
-
+## Future features
 
 #### Existing Features
 
@@ -75,7 +85,7 @@ and - Location page. This is located at the top right of the page. Users can eas
 
 ### Pages
 
-Home-Page:
+##### Home-Page:
 
 • About - A small intro about the gym
 • Reviews - Guests who want to tell something about their experiences of Infinity Gym
