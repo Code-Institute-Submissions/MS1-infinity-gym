@@ -174,7 +174,7 @@ The following pages were passed through the W3C CSS validator:
 Some errors were found. This has been corrected and passed through 
 the W3C CSS validator again. The page passed without errors or warnings.
 
-An extended version of the tested website can be found [[here](assets/documents/testing.pdf)
+An extended version of the tested website can be found [here](assets/documents/testing.pdf)
 
 ## Deployment
 ---
