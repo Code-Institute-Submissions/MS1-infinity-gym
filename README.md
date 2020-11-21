@@ -4,6 +4,9 @@ python3 -m http.server
 
 ## Welcome to Infintiy Gym
 ---
+[Infinity Gym](https://gwenjo.github.io/MS1-infinity-gym/) 
+
+
 *** Infinity Gym is a fictional gym. I set this up gym for my MS1 project *** 
 
 The Infinity Gym site and his content has been created to increase the customer base.
