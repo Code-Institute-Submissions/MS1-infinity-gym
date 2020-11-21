@@ -146,6 +146,9 @@ During this process I modified the website several times and it doesn't look qui
 ** [Css Beautifier](https://www.freeformatter.com/css-beautifier.html)
 -   I used this online tool to beautify/format my CSS code.
 
+** [Auto-Prefixer](https://autoprefixer.github.io)
+-   I used auto-prefixer to make sure my CSS works on all modern browsers.
+
 For the button "Call us" I used the "model code" of css-tricks, I changed this to a "call us" 
 pop-up. The only information you will find in this pop-up is the telephone number of Infinity Gym
 
