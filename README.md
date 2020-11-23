@@ -17,6 +17,7 @@ a spinning room and an extensive fitness room. The guests can therefore enjoy a 
 ## User Experience (UX)
 ---
 
+<img src="assets/images/mockup.png">
 Mockup
 
 
