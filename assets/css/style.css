@@ -456,4 +456,15 @@ i.fa-download i:hover {
 		text-transform: uppercase;
 		letter-spacing: 1px;
 	}
+.lessons-title,
+.timetable-title,
+.location-title {
+	letter-spacing: 2px;
+	color: #fafafa;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 90%;
+}
+
 }
