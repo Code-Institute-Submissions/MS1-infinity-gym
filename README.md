@@ -18,7 +18,7 @@ a spinning room and an extensive fitness room. The guests can therefore enjoy a 
 ---
 
 <img src="assets/images/mockup.png">
-Mockup
+Mockup - Apple divices
 
 
 Infinity Gym would like to increase its customer base through a free first month promotion.
@@ -92,6 +92,7 @@ and - Location page. This is located at the top right of the page. Users can eas
 ##### Home-Page:
 
 • About - A small intro about the gym
+
 • Reviews - Guests who want to tell something about their experiences of Infinity Gym
 
 ##### Lessons-Page:

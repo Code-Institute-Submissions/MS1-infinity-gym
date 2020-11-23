@@ -15,23 +15,23 @@ body {
 }
 
 .mark-title {
-    background: #948eb7;
-    color: #fafafa;
+	background: #948eb7;
+	color: #fafafa;
 }
+
 
 /*-------------------Lessons----------------------*/
 
 .lessons-title {
 	letter-spacing: 2px;
 	color: #fafafa;
-    text-align: center;
-    text-transform: uppercase;
-    font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
 }
 
-.text-other-lessons {
+.text-other-lessons {}
 
-}
 
 /*--------------------Timetable------------------*/
 
@@ -47,9 +47,9 @@ body {
 .timetable-title {
 	letter-spacing: 2px;
 	color: #fafafa;
-    text-align: center;
-    text-transform: uppercase;
-    font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
 }
 
 .table {
@@ -70,6 +70,7 @@ body {
 	text-align: center;
 }
 
+
 /*--------------------Containers------------------*/
 
 .about-container .about {
@@ -87,6 +88,7 @@ body {
 	margin-left: 30px;
 	margin-right: 30px;
 }
+
 
 /*--------------------Jumbotron------------------*/
 
@@ -122,11 +124,11 @@ body {
 	display: -ms-flexbox;
 	display: flex;
 	-webkit-box-align: center;
-	    -ms-flex-align: center;
-	        align-items: center;
+	-ms-flex-align: center;
+	align-items: center;
 	-webkit-box-pack: center;
-	    -ms-flex-pack: center;
-	        justify-content: center;
+	-ms-flex-pack: center;
+	justify-content: center;
 }
 
 .jumbotron-container-lessons {
@@ -139,11 +141,11 @@ body {
 	display: -ms-flexbox;
 	display: flex;
 	-webkit-box-align: center;
-	    -ms-flex-align: center;
-	        align-items: center;
+	-ms-flex-align: center;
+	align-items: center;
 	-webkit-box-pack: center;
-	    -ms-flex-pack: center;
-	        justify-content: center;
+	-ms-flex-pack: center;
+	justify-content: center;
 }
 
 .jumbotron-container-timetable {
@@ -156,11 +158,11 @@ body {
 	display: -ms-flexbox;
 	display: flex;
 	-webkit-box-align: center;
-	    -ms-flex-align: center;
-	        align-items: center;
+	-ms-flex-align: center;
+	align-items: center;
 	-webkit-box-pack: center;
-	    -ms-flex-pack: center;
-	        justify-content: center;
+	-ms-flex-pack: center;
+	justify-content: center;
 }
 
 .jumbotron-container-location {
@@ -173,12 +175,13 @@ body {
 	display: -ms-flexbox;
 	display: flex;
 	-webkit-box-align: center;
-	    -ms-flex-align: center;
-	        align-items: center;
+	-ms-flex-align: center;
+	align-items: center;
 	-webkit-box-pack: center;
-	    -ms-flex-pack: center;
-	        justify-content: center;
+	-ms-flex-pack: center;
+	justify-content: center;
 }
+
 
 /*table, th, td {
   border: None;
@@ -229,6 +232,7 @@ text-transform: uppercase;
 	color: purple;
 }
 
+
 /*-----------------Button------------------------*/
 
 .btn {
@@ -277,14 +281,15 @@ text-transform: uppercase;
 	text-align: center;
 }
 
+
 /*--------------------Location---------------------*/
 
 .location-title {
 	letter-spacing: 2px;
 	color: #fafafa;
-    text-align: center;
-    text-transform: uppercase;
-    font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
 }
 
 .location-container {
@@ -306,6 +311,7 @@ text-transform: uppercase;
 	width: 400px;
 	height: 350px;
 }
+
 
 /*--------------------Footer----------------------*/
 
@@ -352,6 +358,7 @@ i.fa-download i:hover {
 .social-media li a i:hover {
 	color: purple;
 }
+
 
 /*----------Media Queries------------------*/
 
@@ -456,15 +463,14 @@ i.fa-download i:hover {
 		text-transform: uppercase;
 		letter-spacing: 1px;
 	}
-.lessons-title,
-.timetable-title,
-.location-title {
-	letter-spacing: 2px;
-	color: #fafafa;
-    text-align: center;
-    text-transform: uppercase;
-    font-weight: bold;
-    font-size: 90%;
-}
-
+	.lessons-title,
+	.timetable-title,
+	.location-title {
+		letter-spacing: 2px;
+		color: #fafafa;
+		text-align: center;
+		text-transform: uppercase;
+		font-weight: bold;
+		font-size: 90%;
+	}
 }
