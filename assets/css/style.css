@@ -14,15 +14,23 @@ body {
 	color: #432d54;
 }
 
+.mark-title {
+    background: #948eb7;
+    color: #fafafa;
+}
+
 /*-------------------Lessons----------------------*/
 
 .lessons-title {
-	letter-spacing: 1px;
+	letter-spacing: 2px;
 	color: #fafafa;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
 }
 
 .text-other-lessons {
-	color: black;
+
 }
 
 /*--------------------Timetable------------------*/
@@ -37,7 +45,11 @@ body {
 }
 
 .timetable-title {
-	letter-spacing: 1px;
+	letter-spacing: 2px;
+	color: #fafafa;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
 }
 
 .table {
@@ -98,7 +110,6 @@ body {
 
 .jumbotron-content h2 {
 	font-weight: bold;
-	text-decoration: underline;
 }
 
 .jumbotron-container {
@@ -269,7 +280,11 @@ text-transform: uppercase;
 /*--------------------Location---------------------*/
 
 .location-title {
-	letter-spacing: 1px;
+	letter-spacing: 2px;
+	color: #fafafa;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
 }
 
 .location-container {
