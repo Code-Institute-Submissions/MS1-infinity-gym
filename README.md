@@ -7,7 +7,7 @@ python3 -m http.server
 [Infinity Gym](https://gwenjo.github.io/MS1-infinity-gym/) 
 
 
-*** Infinity Gym is a fictional gym. I set this up gym for my MS1 project *** 
+Infinity Gym is a fictional gym. I set this up gym for my MS1 project
 
 The Infinity Gym site and his content has been created to increase the customer base.
 Infinity Gym is a gym and fitness center, this gym is open for about two months. The gym is located in Almere Poort 
@@ -17,9 +17,7 @@ a spinning room and an extensive fitness room. The guests can therefore enjoy a 
 ## User Experience (UX)
 ---
 
-<img src="assets/images/mockup.png">
-Mockup - Apple divices
-
+<img src="assets/images/mockup.jpg">
 
 Infinity Gym would like to increase its customer base through a free first month promotion.
 User Story
@@ -38,8 +36,7 @@ Site owner’s Goal:
 
 ## Wireframes   
 ---
-With the user stories I used [Balsamiq] (https://balsamiq.com/) to create a nice and simple layout for the desktop 
-and mobile screen
+With the user stories I used [Balsamiq] (https://balsamiq.com/) to create a nice and simple layout for the desktop and mobile screen
 
 All wireframes can be viewed [here](assets/documents/wireframes.pdf)
 
@@ -64,7 +61,6 @@ That way I could record everything again. Therefore, there is probably not enoug
 <u>Timetable:</u> For the timetable I created a simple table using a timetable example  from [Bootstrap](https://www.bootstrap.com)
 this allows users to find the classes, times and locations of the rooms.
 
-## Future features
 
 #### Existing Features
 
@@ -153,12 +149,11 @@ During this process I modified the website several times and it doesn't look qui
 ** [Auto-Prefixer](https://autoprefixer.github.io)
 -   I used auto-prefixer to make sure my CSS works on all modern browsers.
 
-** [Mediamodifier](https://mediamodifier.com/mockup/apple-devices-mockup-template/583)
--   For my mockup in my readme file i used Mediamodifier.
+** [Am I Responsive Design](http://ami.responsivedesign.is)
+-   For my mockup in my readme file i used Am I Responsive Design.
 
 For the button "Call us" I used the "model code" of css-tricks, I changed this to a "call us" 
 pop-up. The only information you will find in this pop-up is the telephone number of Infinity Gym
-
 
 
 ## Typography
