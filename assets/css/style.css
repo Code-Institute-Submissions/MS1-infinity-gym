@@ -30,6 +30,9 @@ body {
 	font-weight: bold;
 }
 
+.lessons {
+    text-align: center;
+}
 .text-other-lessons {}
 
 
@@ -77,8 +80,12 @@ body {
 	text-align: center;
 }
 
-.container-review {
+.review-container {
 	text-align: center;
+}
+
+.container-review {
+    text-align: center;
 }
 
 .blockquote {
