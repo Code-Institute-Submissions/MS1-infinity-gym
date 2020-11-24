@@ -33,12 +33,15 @@ Site owner’s Goal:
 * As the site owner, I want to be able to inform visitors of the class timetables.
 * As the site owner, I want to be able to inform visitors the location of the gym.
 
-
 ## Wireframes   
 ---
-With the user stories I used [Balsamiq] (https://balsamiq.com/) to create a nice and simple layout for the desktop and mobile screen
+With the user stories I used [Balsamiq] (https://balsamiq.com/) to create a nice and simple layout for the desktop and mobile screen.
 
-All wireframes can be viewed [here](assets/documents/wireframes.pdf)
+The wireframes: 
+    - Home/ about page
+    - Lessons page
+    - Timetable page
+    - Locations page can be viewed [here](assets/documents/wireframes.pdf)
 
 ## Setup
 
@@ -54,62 +57,35 @@ That way I could record everything again. Therefore, there is probably not enoug
 
 ## Features
 ---
-<u>Navigation: </u>The navigation link styled simple and clear.
+###### Navigationbar:
+Each page has a navigation bar that contains all links to every page on the website. The - Lessons, - Timetable and - Location page. This is located at the top right of the page. Users can easily navigate through this. On the upper left side u will find the name of the gym
 
-<u>Lessons:</u> On this page u find all the information of the lessons that will be given during the week.
+###### Header:
+All pages contain the logo of the gym and a "Call us" button, which displays the gym's number when you click on it.
 
-<u>Timetable:</u> For the timetable I created a simple table using a timetable example  from [Bootstrap](https://www.bootstrap.com)
-this allows users to find the classes, times and locations of the rooms.
-
+###### Footer:
+Each page also has a footer with contact details, opening times, a download button where users can download and / or print the timetable, and three social media links that give all users access to our social media platforms on a separate page.
 
 #### Existing Features
 
-On each page you will find a:
+###### Home-Page:
+The "about" is a brief introduction of the gym and where is located.
+Below the about section there are two reviews that are displayed by guests (with their pictures) who are new to the gym and want to share their experiences with new users.
 
-##### Navigationbar:
+###### Lessons-Page:
+On this page you will find information about the lessons within Infinity Gym. Under the information of the lessons there is a button that refers to the timetable.
 
-The main navigation contains all links to every page on the website. The - Lessons, - Timetable 
-and - Location page. This is located at the top right of the page. Users can easily navigate through this.
+###### Timetable-Page:
+A simple and clear timetable has been created where the user can easily find his or her class. The timetable provides a weekly timetable with information about the times and locations where classes are conducted. It is also indicated how many people can participate in the lesson due to Covid-19.
 
-##### Header:
+###### Location-Page:
+The location page is easy to find via the main navigation. On this page you will find the address and a small map of the location.
 
-• Infinity Gym Logo - This is shown in the center of the page. 
-
-• Call us buttons - On every page there is an "Call Us" Button so that (new) customer's can find the number easily.
-
-##### Footer:
-
-• Contact - This contains the opening hours and again the telephone number of Infinity Gym
-
-• Timetable Upload - Guests can download and / or print the timetable via this link
-
-• Social Media - Gives alle users acces to our social Media platforms. 
-
-### Pages
-
-##### Home-Page:
-
-• About - A small intro about the gym
-
-• Reviews - Guests who want to tell something about their experiences of Infinity Gym
-
-##### Lessons-Page:
-
-• A brief explanation of the classes available within Infinity Gym
-
-##### Timetable-Page:
-
-• A week's class schedule with times and locations where classes are conducted. It is also 
-indicated how many people can participate in the lesson due to Covid-19.
-
-##### Location-Page:
-
-• This page contains the address and a small map of the location.
-
-## Features Left to Implement
+#### Features Left to Implement
 
 For the future of the website it would be easy to create a contact form. Interested parties 
 can then leave their e-mail address and the customer list can be expanded on this basis.
+
 
 ## Technologies Used
 ---
