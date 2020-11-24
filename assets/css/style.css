@@ -242,9 +242,6 @@ text-transform: uppercase;
 
 /*-----------------Button------------------------*/
 
-.btn {
-	color: purple;
-}
 
 .text-other {
 	color: white;
@@ -255,7 +252,9 @@ text-transform: uppercase;
 	background-color: #948eb7;
 }
 
-.btn .btn-light .btn-md {
+.btn, 
+.btn-outline-light,
+.btn-md {
 	color: purple;
 }
 
