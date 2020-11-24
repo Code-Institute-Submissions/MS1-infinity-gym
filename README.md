@@ -38,6 +38,8 @@ Site owner’s Goal:
 
 ## Wireframes   
 ---
+With the user stories I used [Balsamiq] (https://balsamiq.com/) to create a nice and simple layout for the desktop 
+and mobile screen
 
 All wireframes can be viewed [here](assets/documents/wireframes.pdf)
 
