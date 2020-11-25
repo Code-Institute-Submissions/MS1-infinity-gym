@@ -51,32 +51,39 @@ Since I wanted to do everything perfectly in my head, I started over more than t
 I've been working on multiple screens and got confused and forgot to save the pages in "git add". So, I couldn't save it after a while.
 
 After talking to my mentor, she told me I only committed 11 times. This was not my intention, but my own mistake. 
-I was able to restore my gitpod after saving everything, then clearing all .html pages, then committed + pushing everything, then creating new .html pages. 
+I was able to restore my gitpod after saving everything, then clearing all .html pages, then committed + pushing everything, then 
+creating new .html pages. 
 
 That way I could record everything again. Therefore, there is probably not enough committed pages.
 
 ## Features
 ---
 ###### Navigationbar:
-Each page has a navigation bar that contains all links to every page on the website. The - Lessons, - Timetable and - Location page. This is located at the top right of the page. Users can easily navigate through this. On the upper left side u will find the name of the gym
+Each page has a navigation bar that contains all links to every page on the website. The - Lessons, - Timetable and - Location page. 
+This is located at the top right of the page. Users can easily navigate through this. On the upper left side u will find the name of the gym
 
 ###### Header:
 All pages contain the logo of the gym and a "Call us" button, which displays the gym's number when you click on it.
 
 ###### Footer:
-Each page also has a footer with contact details, opening times, a download button where users can download and / or print the timetable, and three social media links that give all users access to our social media platforms on a separate page.
+Each page also has a footer with contact details, opening times, a download button where users can download and / or print the timetable, 
+and three social media links that give all users access to our social media platforms on a separate page.
 
 #### Existing Features
 
 ###### Home-Page:
 The "about" is a brief introduction of the gym and where is located.
-Below the about section there are two reviews that are displayed by guests (with their pictures) who are new to the gym and want to share their experiences with new users.
+Below the about section there are two reviews that are displayed by guests (with their pictures) who are new to the gym and want to share 
+their experiences with new users.
 
 ###### Lessons-Page:
-On this page you will find information about the lessons within Infinity Gym. Under the information of the lessons there is a button that refers to the timetable.
+On this page you will find information about the lessons within Infinity Gym. Under the information of the lessons there is a button that 
+refers to the timetable.
 
 ###### Timetable-Page:
-A simple and clear timetable has been created where the user can easily find his or her class. The timetable provides a weekly timetable with information about the times and locations where classes are conducted. It is also indicated how many people can participate in the lesson due to Covid-19.
+A simple and clear timetable has been created where the user can easily find his or her class. The timetable provides a weekly timetable 
+with information about the times and locations where classes are conducted. It is also indicated how many people can participate in the 
+lesson due to Covid-19.
 
 ###### Location-Page:
 The location page is easy to find via the main navigation. On this page you will find the address and a small map of the location.
@@ -100,37 +107,37 @@ can then leave their e-mail address and the customer list can be expanded on thi
 ## Tools used
 ---
 
-** [Balsamiq](https://balsamiq.com/) 
+**[Balsamiq](https://balsamiq.com/)**
 -   Before I started the website I used the Balsamiq software to set up my wireframe. <br>
 During this process I modified the website several times and it doesn't look quite the same as the wireframes.
 
-** [PicCollage](https://piccollage.com/)
+**[PicCollage](https://piccollage.com/)**
 -   I made the logo myself. For the Logo I have used an app on my Iphone. So that I could type the name 
 (Infinity Gym) and easily could crop my logo.
 
-** [Pexels](https://pexels.com/)
+**[Pexels](https://pexels.com/)**
 -   I've used photos from photographers who posted photos on pexels.
 
-** [Adobe Color](https://color.adobe.com/nl/create/color-wheel) 
+**[Adobe Color](https://color.adobe.com/nl/create/color-wheel)**
 -   For the font-color I used Adobe Color. [Click here](assets/documents/adobe-color.jpg)
 
-** [W3School](https://www.w3schools.com/) + [Bootstrap](https://getbootstrap.com/)
+**[W3School](https://www.w3schools.com/) + [Bootstrap](https://getbootstrap.com/)**
 -   The first schedule I made was from W3School. but I didn't like the outcome of the table. 
     Then I continued my search and found one on Bootstrap.
 -   For the Quotes I used blockquotes from W3School.
 
-** [Css Beautifier](https://www.freeformatter.com/css-beautifier.html)
+**[Css Beautifier](https://www.freeformatter.com/css-beautifier.html)**
 -   I used this online tool to beautify/format my CSS code.
 
-** [Auto-Prefixer](https://autoprefixer.github.io)
+**[Auto-Prefixer](https://autoprefixer.github.io)**
 -   I used auto-prefixer to make sure my CSS works on all modern browsers.
 
-** [Am I Responsive Design](http://ami.responsivedesign.is)
+**[Am I Responsive Design](http://ami.responsivedesign.is)**
 -   For my mockup in my readme file i used Am I Responsive Design.
 
-For the button "Call us" I used the "model code" of css-tricks, I changed this to a "call us" 
-pop-up. The only information you will find in this pop-up is the telephone number of Infinity Gym
-
+**[CSS Tricks](https://css-tricks.com/)**
+For the button "Call us" I used the "model" code of css-tricks, I changed this to a only "call us" pop-up. 
+The only information you will find in this pop-up is the telephone number of Infinity Gym.
 
 ## Typography
 ---
