@@ -129,15 +129,21 @@ During this process I modified the website several times and it doesn't look qui
 **[Css Beautifier](https://www.freeformatter.com/css-beautifier.html)**
 -   I used this online tool to beautify/format my CSS code.
 
-**[Auto-Prefixer](https://autoprefixer.github.io)**
--   I used auto-prefixer to make sure my CSS works on all modern browsers.
-
 **[Am I Responsive Design](http://ami.responsivedesign.is)**
 -   For my mockup in my readme file i used Am I Responsive Design.
 
 **[CSS Tricks](https://css-tricks.com/)**
-For the button "Call us" I used the "model" code of css-tricks, I changed this to a only "call us" pop-up. 
-The only information you will find in this pop-up is the telephone number of Infinity Gym.
+-   For the button "Call us" I used the "model" code of css-tricks, I changed this to a only "call us" pop-up. 
+    The only information you will find in this pop-up is the telephone number of Infinity Gym.
+
+**[Auto-Prefixer](https://autoprefixer.github.io)**
+-   I used auto-prefixer to make sure my CSS works on all modern browsers.
+
+**[W3C HTMl Validator](https://validator.w3.org/)**
+-   I used this tool to validate my HTML code.
+
+**[W3C CSS Validator](http://jigsaw.w3.org/css-validator/)**
+-    I used this tool to validate my CSS code.
 
 ## Typography
 ---
@@ -165,8 +171,169 @@ The following pages were passed through the W3C CSS validator:
 
 Some errors were found. This has been corrected and passed through 
 the W3C CSS validator again. The page passed without errors or warnings.
+## Testing 
 
-An extended version of the tested website can be found [here](assets/documents/testing.pdf)
+W3C URL Validator
+When I first passed my site through the validation, it revealed 3 errors, [See photo](assets/documents/validator.jpg)
+
+1.	I changed a <p> to a <h6>
+2.	I changed the btn names on all pages.
+3.	I changed the header and put it in the right place.
+
+After correcting it I ran it through the validator again and it came back without errors.
+
+W3C HTML Validator
+The following pages were passed through the W3C HTML validator:
+*   index.html
+*	lessons.html
+*   timetable.html
+*   location.html
+
+Some errors were found. This has been corrected and passed through the W3C HTML validator again. The pages passed without errors or warnings.
+
+W3C CSS Validator
+The following page passed through the W3C CSS validator:
+*   style.css
+
+Some minor errors were found. Such as closing} and too many spaces between code. This has been corrected and passed through the W3C CSS validator again. The page passed without errors or warnings.
+ 
+User Stories
+User’s goal:
+**As a user, I want to know what lessons available in the gym**
+
+•	On a desktop, a simple navigation bar is displayed in the top right corner of the corner page. The "Lessons" item provides users with information about all the classes taught at Infinity Gym.
+•	If you are interested in one of the lessons, there is a button at the bottom of the explanation that refers to the “Timetable”.
+•	On a mobile device, you will see a drop-down menu with the options "Lessons".
+
+**As a user, I want to know the class timetable so that I can plan my workout routine around my favorite lesson.**
+•	On a desktop, a simple navigation bar is displayed in the top right corner of the corner page. The "Timetable" item provides users with information about a weekly timetable.
+•	he class schedule from Monday to Sunday is displayed on the schedule page. It is easily accessible from the navigation bar.
+•	If you are interested in one of the lessons from the timetable, there is a button at the bottom of the timetable that refers to the “Lessons”.
+•	On a mobile device, you will see a drop-down menu with the options " Timetable”.
+
+**As a user, I want to be able to locate the gym.**
+•	On a desktop, a simple navigation bar is displayed in the top right corner of the corner page. The "Location" item provides users with information about the location.
+•	The address and a picture of “Google maps” will show the location of Infinity Gym.
+•	On a mobile device you will see a dropdown box with the options “Location”.
+
+**As a user, I want to view the gym’s contact information so that I can ask about the membership.**
+•	On a desktop, you can press the "Call us" button when opening the website. A pop-up will open with the phone number of Infinity Gym.
+•	On the navigation bar in the top right corner of the corner page, the user will find the item “Location” which gives the user the contact details of the gym.
+
+Site owner’s Goal:
+**As the site owner, I want the user to have an easily accessible site.**
+•	The user can easily move around the navigation bar and see the menu items.
+
+**As the site owner, I want to be able to inform visitors of the class timetables.**
+•	 The user can find a simple and clear timetable (Monday-Sunday) on the timetable page.
+
+**As the site owner, I want to be able to inform visitors the location of the gym.**
+•	The user can easily navigate to the location page.
+•	The user can easily move around the index / about page and see the "Call us" button.
+
+#### Further testing
+The website has been tested on multiple browsers such as:
+-	Google Chrome	    - Internet Explorer
+-	Safari (IOS)		- Mozilla Firefox
+
+The website has also been tested on various devices such as:
+-	Desktop
+-	Laptop
+-	And various cell phones
+
+All pages and navigation links work properly and have been checked.
+-   Home/ About
+-   Lessons
+-   Timetable
+-   Location
+
+**Home Page**
+*Navigation Bar:*
+1.	Go to the Home page on a desktop, you will find the name of the Gym at the top left. When you click on this, it will always take you back to the homepage.
+2.	You will see the navigation bar on the right. When you resize the screen to a smaller size, the menu will automatically adjust to a dropdown icon. When you click on it, the menu it opens as a dropdown. 
+3.	All links from the navigation to the correct pages have been checked and work properly.
+*   Logo name > Homepage 
+*   Home > Home page 
+*   Lessons 
+*   Timetable 
+*   Location 
+
+*Message:*
+1.	When opening the website on a desktop you will first see a large photo in the background with the message stating that the first month is free.
+2.	If you scroll down, the jumbotron background image will stay and the text will scroll over the photo.
+3.	If I resize the screen to an iPad or iPhone the jumbotron background image does not work. On Stack overflow I’ve read that the jumbotron does not (yet) work on small devices. what I did is resize the jumbotron background. So that you can read the message on smaller devices.
+4.	Below the message is an A "Call us" button. Hover over the “Call us” button, you will see the color change.
+5.	When u click on the call us button on a desktop a pop-up will appear with the number where infinity Gym can be reached. (This button is repeated on every page.) 
+6.	On a mobile device a pop-up will appear with the number, when clicking on the phone number you immediately get the option to call the number. [See photo](assets/documents/messagecall.jpg)
+
+*About:*
+1.	Below the message is a small introduction about the gym and a link that refers you to the lessons that are given at Infinity Gym. Hover over the lesson button the color will change. 
+2.	Click on the button and it will direct you to the correct “lessons” page. The link works and takes you to the lessons page. 
+	
+*Footer:* 
+1.	In the footer you will find the contact, it contains the opening hours and telephone number of the gym.
+2.	On a mobile when clicking on the phone number, you immediately get the option to call the number. [See photo](assets/documents/footercall.jpg)
+3.	In the middle of the footer there is a download link of the timetable.
+4.	When you click on the link, another page opens with the timetable so that you can download and / or print it. The link works and opens another page to the timetable. 
+5.	If you hover over the social media icons, you will see that it changes purple in color.
+6.	Click on each social media icon to check if each icon opens on its own page.
+•	Facebook, Instagram, Twitter these links all work and they will open on separate pages.
+
+**Lessons Page**
+*Navigation Bar:*
+•	The navigation bar will be the same as the home page. Everything works as it should.
+
+1.	When opening the lessons page on a desktop you will large photo in the background with the title Lessons.
+2.	If you scroll down, the jumbotron background image will stay and the text will scroll over the photo.
+3.	If I resize the screen to an iPad or iPhone the jumbotron background image does not work. On Stack overflow I’ve read that the jumbotron does not (yet) work on small devices. what I did is resize the jumbotron background. You will see the photo will move when you scroll down the page.
+4.	Below the photo you will find a short intro about the lessons.
+5.	Below the intro is the "Call us" button which can also be found on the home page, this is easy for the user to find the number
+
+*Lessons:*
+1.	Information is provided on the different lessons available at Infinity Gym.
+2.	Below the information of the lesson there will be button that refers you to the Timetable.
+3.	Hover over the timetable button the color will change. 
+4.	Click on the button and it will direct you to the “timetable” page. The link works and takes you to the timetable page. 
+
+*Footer:*
+The footer information will be the same as the homepage. These have all been tested individually on each page.
+
+**Timetable Page**
+*Navigation Bar:*
+•	The navigation bar will be the same as the home page. Everything works as it should.
+
+1.	When opening the timetable page on a desktop you will large photo in the background with the title Timetable.
+2.	If you scroll down, the jumbotron background image will stay and the text will scroll over the photo.
+3.	If I resize the screen to an iPad or iPhone the jumbotron background image does not work. On Stack overflow I’ve read that the jumbotron does not (yet) work on small devices. what I did is resize the jumbotron background. You will see the photo will move when you scroll down the page.
+
+*Timetable:*
+1.	A timetable from Monday to Sunday is shown on this page.
+2.	Below the timetable there will be button that refers you to the Lessons.
+3.	Hover over the lesson button the color will change. 
+4.	Click on the button and it will direct you to the “lessons” page. The link works and takes you to the lessons page. 
+
+*Footer:*
+The footer information will be the same as the homepage. These have all been tested individually on each page and all work.
+
+**Location Page**
+*Navigation Bar:*
+•	The navigation bar will be the same as the home page. Everything works as it should.
+
+1.	When opening the location page on a desktop you will large photo in the background with the title Location.
+4.	If you scroll down, the jumbotron background image will stay and the text will scroll over the photo.
+5.	If I resize the screen to an iPad or iPhone the jumbotron background image does not work. On Stack overflow I’ve read that the jumbotron does not (yet) work on small devices. what I did is resize the jumbotron background. You will see the photo will move when you scroll down the page.
+
+*Location:*
+1.	On this page you will find the address and a simple picture of “Google maps” that will show the location of Infinity Gym.
+2.	Below the address there will also be a "Call us" button. Hover over the “Call us” button, you will see the color change.
+3.	When u click on the call us button on a desktop a pop-up will appear with the number where infinity Gym can be reached. (This button is repeated on every page.) 
+4.	On a mobile device a pop-up will appear with the number, when clicking on the phone number you immediately get the option to call the number.
+
+*Footer:*
+The footer information will be the same as the homepage. These have all been tested individually on each page and all work.
+
+
+I've als put my testing in a pdf [Click here](assets/documents/testing.pdf)
 
 ## Deployment
 ---
