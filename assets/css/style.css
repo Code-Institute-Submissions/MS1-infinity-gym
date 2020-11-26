@@ -33,7 +33,6 @@ body {
 .lessons {
     text-align: center;
 }
-.text-other-lessons {}
 
 
 /*--------------------Timetable------------------*/
@@ -188,20 +187,6 @@ body {
 	-ms-flex-pack: center;
 	justify-content: center;
 }
-
-
-/*table, th, td {
-  border: None;
-  border-collapse: collapse;
-}
-th, td {
-  padding: 3px;
-}
-
-p {
-text-transform: uppercase;
-}*/
-
 
 /*--------------------Nav------------------------*/
 
@@ -358,13 +343,11 @@ i.fa-download i:hover {
 	font-size: 120%;
 	margin: 1%;
 	padding: 2%;
-	color: #777777;
 }
 
 .social-media li a i:hover {
 	color: purple;
 }
-
 
 /*----------Media Queries------------------*/
 

@@ -104,7 +104,7 @@ can then leave their e-mail address and the customer list can be expanded on thi
 * Bootstrap 4
 
 
-## Tools used
+### Tools used
 ---
 
 **[Balsamiq](https://balsamiq.com/)**
@@ -148,10 +148,15 @@ During this process I modified the website several times and it doesn't look qui
 **[Dillinger](https://dillinger.io/)**
 -   i used dillenger for my readme file.
 
-## Typography
+### Typography + Color
 ---
 
-For the typography i used Roboto with a backup font of Sans-serif.
+For the typography I have used Roboto with a backup font of Sans-serif. It is a simple and easy to read font.
+The font is also easy to read on smaller devices.
+
+For choosing of the colors I used adobe color scheme.
+<img src="assets/documents/adobe-color.jpg">
+
 
 ## Testing
 ---
