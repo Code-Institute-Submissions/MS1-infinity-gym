@@ -145,6 +145,9 @@ During this process I modified the website several times and it doesn't look qui
 **[W3C CSS Validator](http://jigsaw.w3.org/css-validator/)**
 -    I used this tool to validate my CSS code.
 
+**[Dillinger](https://dillinger.io/)**
+-   i used dillenger for my readme file.
+
 ## Typography
 ---
 
@@ -152,16 +155,24 @@ For the typography i used Roboto with a backup font of Sans-serif.
 
 ## Testing
 ---
-#### W3C HTML Validator
+#### W3C URL Validator
+When I first passed my site through the validation, it revealed 3 errors, [See photo](assets/documents/validator.jpg)
 
+1.	I changed a < p > to a < h6 >
+2.	I changed the btn names on all pages.
+3.	I changed the header and put it in the right place.
+
+After correcting it I ran it through the validator again and it came back without errors.
+
+#### W3C HTML Validator
 The following pages were passed through the W3C HTML validator:
 *   index.html
 *   lessons.html
 *   timetable.html
 *   location.html
 
-Some errors were found. This has been corrected and passed through 
-the W3C HTML validator again. The pages passed without errors or warnings.
+Some minor errors were found. Such as closing} and too many spaces between code. This has been 
+corrected and passed through the W3C CSS validator again. The page passed without errors or warnings.
 
 #### W3C CSS Validator
 
@@ -169,72 +180,51 @@ The following pages were passed through the W3C CSS validator:
 
 *   style.css
 
-Some errors were found. This has been corrected and passed through 
-the W3C CSS validator again. The page passed without errors or warnings.
-## Testing 
+Some minor errors were found. Such as closing} and too many spaces between code. This has been corrected 
+and passed through the W3C CSS validator again. The page passed without errors or warnings.
 
-W3C URL Validator
-When I first passed my site through the validation, it revealed 3 errors, [See photo](assets/documents/validator.jpg)
-
-1.	I changed a <p> to a <h6>
-2.	I changed the btn names on all pages.
-3.	I changed the header and put it in the right place.
-
-After correcting it I ran it through the validator again and it came back without errors.
-
-W3C HTML Validator
-The following pages were passed through the W3C HTML validator:
-*   index.html
-*	lessons.html
-*   timetable.html
-*   location.html
-
-Some errors were found. This has been corrected and passed through the W3C HTML validator again. The pages passed without errors or warnings.
-
-W3C CSS Validator
-The following page passed through the W3C CSS validator:
-*   style.css
-
-Some minor errors were found. Such as closing} and too many spaces between code. This has been corrected and passed through the W3C CSS validator again. The page passed without errors or warnings.
- 
 User Stories
+
 User’s goal:
+
 **As a user, I want to know what lessons available in the gym**
 
-•	On a desktop, a simple navigation bar is displayed in the top right corner of the corner page. The "Lessons" item provides users with information about all the classes taught at Infinity Gym.
-•	If you are interested in one of the lessons, there is a button at the bottom of the explanation that refers to the “Timetable”.
-•	On a mobile device, you will see a drop-down menu with the options "Lessons".
+*   On a desktop, a simple navigation bar is displayed in the top right corner of the corner page. The "Lessons" item provides users with information about all the classes taught at Infinity Gym.
+*   If you are interested in one of the lessons, there is a button at the bottom of the explanation that refers to the “Timetable”.
+*   On a mobile device, you will see a drop-down menu with the options "Lessons".
 
 **As a user, I want to know the class timetable so that I can plan my workout routine around my favorite lesson.**
-•	On a desktop, a simple navigation bar is displayed in the top right corner of the corner page. The "Timetable" item provides users with information about a weekly timetable.
-•	he class schedule from Monday to Sunday is displayed on the schedule page. It is easily accessible from the navigation bar.
-•	If you are interested in one of the lessons from the timetable, there is a button at the bottom of the timetable that refers to the “Lessons”.
-•	On a mobile device, you will see a drop-down menu with the options " Timetable”.
+*   On a desktop, a simple navigation bar is displayed in the top right corner of the corner page. The "Timetable" item provides users with information about a weekly timetable.
+*   he class schedule from Monday to Sunday is displayed on the schedule page. It is easily accessible from the navigation bar.
+*   If you are interested in one of the lessons from the timetable, there is a button at the bottom of the timetable that refers to the “Lessons”.
+*   On a mobile device, you will see a drop-down menu with the options " Timetable”.
 
 **As a user, I want to be able to locate the gym.**
-•	On a desktop, a simple navigation bar is displayed in the top right corner of the corner page. The "Location" item provides users with information about the location.
-•	The address and a picture of “Google maps” will show the location of Infinity Gym.
-•	On a mobile device you will see a dropdown box with the options “Location”.
+*   On a desktop, a simple navigation bar is displayed in the top right corner of the corner page. The "Location" item provides users with information about the location.
+*   The address and a picture of “Google maps” will show the location of Infinity Gym.
+*   On a mobile device you will see a dropdown box with the options “Location”.
 
 **As a user, I want to view the gym’s contact information so that I can ask about the membership.**
-•	On a desktop, you can press the "Call us" button when opening the website. A pop-up will open with the phone number of Infinity Gym.
-•	On the navigation bar in the top right corner of the corner page, the user will find the item “Location” which gives the user the contact details of the gym.
+*   On a desktop, you can press the "Call us" button when opening the website. A pop-up will open with the phone number of Infinity Gym.
+*   On the navigation bar in the top right corner of the corner page, the user will find the item “Location” which gives the user the contact details of the gym.
 
 Site owner’s Goal:
 **As the site owner, I want the user to have an easily accessible site.**
-•	The user can easily move around the navigation bar and see the menu items.
+*   The user can easily move around the navigation bar and see the menu items.
 
 **As the site owner, I want to be able to inform visitors of the class timetables.**
-•	 The user can find a simple and clear timetable (Monday-Sunday) on the timetable page.
+*   The user can find a simple and clear timetable (Monday-Sunday) on the timetable page.
 
 **As the site owner, I want to be able to inform visitors the location of the gym.**
-•	The user can easily navigate to the location page.
-•	The user can easily move around the index / about page and see the "Call us" button.
+*   The user can easily navigate to the location page.
+*   The user can easily move around the index / about page and see the "Call us" button.
 
 #### Further testing
 The website has been tested on multiple browsers such as:
--	Google Chrome	    - Internet Explorer
--	Safari (IOS)		- Mozilla Firefox
+-	Google Chrome	     
+-	Safari (IOS)		
+-   Internet Explorer
+-   Mozilla Firefox
 
 The website has also been tested on various devices such as:
 -	Desktop
@@ -248,6 +238,7 @@ All pages and navigation links work properly and have been checked.
 -   Location
 
 **Home Page**
+
 *Navigation Bar:*
 1.	Go to the Home page on a desktop, you will find the name of the Gym at the top left. When you click on this, it will always take you back to the homepage.
 2.	You will see the navigation bar on the right. When you resize the screen to a smaller size, the menu will automatically adjust to a dropdown icon. When you click on it, the menu it opens as a dropdown. 
@@ -280,8 +271,10 @@ All pages and navigation links work properly and have been checked.
 •	Facebook, Instagram, Twitter these links all work and they will open on separate pages.
 
 **Lessons Page**
+
 *Navigation Bar:*
-•	The navigation bar will be the same as the home page. Everything works as it should.
+
+The navigation bar will be the same as the home page. Everything works as it should.
 
 1.	When opening the lessons page on a desktop you will large photo in the background with the title Lessons.
 2.	If you scroll down, the jumbotron background image will stay and the text will scroll over the photo.
@@ -296,11 +289,14 @@ All pages and navigation links work properly and have been checked.
 4.	Click on the button and it will direct you to the “timetable” page. The link works and takes you to the timetable page. 
 
 *Footer:*
+
 The footer information will be the same as the homepage. These have all been tested individually on each page.
 
 **Timetable Page**
+
 *Navigation Bar:*
-•	The navigation bar will be the same as the home page. Everything works as it should.
+
+The navigation bar will be the same as the home page. Everything works as it should.
 
 1.	When opening the timetable page on a desktop you will large photo in the background with the title Timetable.
 2.	If you scroll down, the jumbotron background image will stay and the text will scroll over the photo.
@@ -313,11 +309,14 @@ The footer information will be the same as the homepage. These have all been tes
 4.	Click on the button and it will direct you to the “lessons” page. The link works and takes you to the lessons page. 
 
 *Footer:*
+
 The footer information will be the same as the homepage. These have all been tested individually on each page and all work.
 
 **Location Page**
+
 *Navigation Bar:*
-•	The navigation bar will be the same as the home page. Everything works as it should.
+
+The navigation bar will be the same as the home page. Everything works as it should.
 
 1.	When opening the location page on a desktop you will large photo in the background with the title Location.
 4.	If you scroll down, the jumbotron background image will stay and the text will scroll over the photo.
@@ -333,7 +332,7 @@ The footer information will be the same as the homepage. These have all been tes
 The footer information will be the same as the homepage. These have all been tested individually on each page and all work.
 
 
-I've als put my testing in a pdf [Click here](assets/documents/testing.pdf)
+I've als put my testing in a pdf file [Click here](assets/documents/testing.pdf)
 
 ## Deployment
 ---
