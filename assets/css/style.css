@@ -413,7 +413,7 @@ body {
 		background-size: cover;
 	}
 	.jumbotron-container-lessons {
-		background: url('../images/lessons-page.jpg') no-repeat;
+		background: url('../images/lessons1.jpg') no-repeat;
 		height: 290px;
 		width: 100%;
 		background-position: center;
@@ -427,7 +427,7 @@ body {
 		background-size: cover;
 	}
 	.jumbotron-container-location {
-		background: url('../images/location-page.jpg') no-repeat;
+		background: url('../images/location1.jpg') no-repeat;
 		height: 320px;
 		width: 100%;
 		background-position: center;
