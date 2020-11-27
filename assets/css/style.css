@@ -328,11 +328,12 @@ body {
 
 .download i {
 	text-align: center;
-    color: #432d54;
+    color: purple;
+    
 }
 
 .download i:hover {
-	color: purple;
+	color: #b4aaf0;
 }
 
 .social-media {
@@ -344,14 +345,14 @@ body {
 }
 
 .social-media i {
-	color: #432d54;
+	color: purple;
     font-size: 120%;
 	margin: 1%;
 	padding: 2%;
 }
 
 .social-media li a i:hover {
-	color: purple;
+	color: #b4aaf0;
 }
 
 /*----------Media Queries------------------*/
