@@ -164,7 +164,7 @@ Btn hover #purple
 ---
 #### W3C URL Validator
 When I first passed my site through the validation, it revealed 3 errors, 
-[See photo](assets/documents/validator.jpg)
+<img src="assets/documents/validator.jpg">
 
 1.	I changed a < p > to a < h6 >
 2.	I changed the btn names on all pages.
@@ -263,7 +263,7 @@ All pages and navigation links work properly and have been checked.
 3.	If I resize the screen to an iPad or iPhone the jumbotron background image does not work. On Stack overflow I’ve read that the jumbotron does not (yet) work on small devices. what I did is resize the jumbotron background. So that you can read the message on smaller devices.
 4.	Below the message is an A "Call us" button. Hover over the “Call us” button, you will see the color change.
 5.	When u click on the call us button on a desktop a pop-up will appear with the number where infinity Gym can be reached. (This button is repeated on every page.) 
-6.	On a mobile device a pop-up will appear with the number, when clicking on the phone number you immediately get the option to call the number. [See photo](assets/documents/messagecall.jpg)
+6.	On a mobile device a pop-up will appear with the number, when clicking on the phone number you immediately get the option to call the number. <img src="assets/documents/messagecall.jpg">
 
 *About:*
 1.	Below the message is a small introduction about the gym and a link that refers you to the lessons that are given at Infinity Gym. Hover over the lesson button the color will change. 
@@ -271,7 +271,7 @@ All pages and navigation links work properly and have been checked.
 	
 *Footer:* 
 1.	In the footer you will find the contact, it contains the opening hours and telephone number of the gym.
-2.	On a mobile when clicking on the phone number, you immediately get the option to call the number. [See photo](assets/documents/footercall.jpg)
+2.	On a mobile when clicking on the phone number, you immediately get the option to call the number. <img src="assets/documents/footercall.jpg">
 3.	In the middle of the footer there is a download link of the timetable.
 4.	When you click on the link, another page opens with the timetable so that you can download and / or print it. The link works and opens another page to the timetable. 
 5.	If you hover over the social media icons, you will see that it changes purple in color.
