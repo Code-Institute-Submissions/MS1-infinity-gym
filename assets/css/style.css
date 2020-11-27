@@ -326,8 +326,12 @@ body {
 	text-align: center;
 }
 
-i.fa-download i:hover {
-	background-color: transparent;
+.download i {
+	text-align: center;
+    color: #432d54;
+}
+
+.download i:hover {
 	color: purple;
 }
 

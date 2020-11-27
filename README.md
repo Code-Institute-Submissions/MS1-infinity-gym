@@ -1,7 +1,5 @@
 <img src="assets/images/logo.jpg" style="center" width="300" height="250">
 
-python3 -m http.server
-
 ## Welcome to Infintiy Gym
 ---
 [Infinity Gym](https://gwenjo.github.io/MS1-infinity-gym/) 
