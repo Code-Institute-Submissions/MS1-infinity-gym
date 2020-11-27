@@ -165,7 +165,8 @@ Btn hover #purple
 ## Testing
 ---
 #### W3C URL Validator
-When I first passed my site through the validation, it revealed 3 errors, [See photo](assets/documents/validator.jpg)
+When I first passed my site through the validation, it revealed 3 errors, 
+[See photo](assets/documents/validator.jpg)
 
 1.	I changed a < p > to a < h6 >
 2.	I changed the btn names on all pages.
