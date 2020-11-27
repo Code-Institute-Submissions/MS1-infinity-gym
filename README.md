@@ -154,9 +154,13 @@ During this process I modified the website several times and it doesn't look qui
 For the typography I have used Roboto with a backup font of Sans-serif. It is a simple and easy to read font.
 The font is also easy to read on smaller devices.
 
-For choosing of the colors I used adobe color scheme.
+I used adobe color scheme for choosing the colors of my website.
 <img src="assets/documents/adobe-color.jpg">
+Body text: #432d54
 
+Title of the gym  #948eb7
+
+Btn hover #purple
 
 ## Testing
 ---

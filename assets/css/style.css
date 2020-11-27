@@ -340,7 +340,8 @@ i.fa-download i:hover {
 }
 
 .social-media i {
-	font-size: 120%;
+	color: #777777;
+    font-size: 120%;
 	margin: 1%;
 	padding: 2%;
 }
