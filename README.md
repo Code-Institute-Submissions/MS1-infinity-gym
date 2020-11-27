@@ -342,6 +342,11 @@ The footer information will be the same as the homepage. These have all been tes
 
 I've als put my testing in a pdf file [Click here](assets/documents/testing.pdf)
 
+#### Lighthouse
+
+<img src="assets/documents/lighthouse1.jpg">
+<img src="assets/documents/lighthouse2.jpg">
+
 ## Deployment
 ---
 For the deployment of infinity Gym website, I used Github pages. follow the next steps to my URL:
