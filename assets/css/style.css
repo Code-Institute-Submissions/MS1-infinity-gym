@@ -406,7 +406,7 @@ body {
 @media only screen and (max-width: 375px) {
 	/* style rules for screens ≤ 320px wide */
 	.jumbotron-container {
-		background: url('../images/bootcamp.jpg') no-repeat;
+		background: url('../images/bootcamp2.jpg') no-repeat;
 		height: 290px;
 		width: 100%;
 		background-position: center;
