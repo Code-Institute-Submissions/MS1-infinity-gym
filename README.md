@@ -352,6 +352,10 @@ I've als put my testing in a pdf file [Click here](assets/documents/testing.pdf)
 <img src="assets/documents/lighthouse1.jpg">
 <img src="assets/documents/lighthouse2.jpg">
 
+After testing the response from the lighthouse, it turned out that my photos were on the large side. However, this is not very bad for the desktop version, but for the mobile devices the average response is immediately reduced.
+
+I have adjusted these pictures for all pages but the response from the lighthouse for the mobile version seems to be the same.
+
 ## Deployment
 ---
 For the deployment of infinity Gym website, I used Github pages. follow the next steps to my URL:
