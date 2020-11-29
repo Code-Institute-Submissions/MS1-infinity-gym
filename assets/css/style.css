@@ -14,6 +14,12 @@ body {
 	color: #432d54;
 }
 
+.mark-title {
+    letter-spacing: 2px;
+    color: #432d54;
+    background-color: #948eb7
+}
+
 /*-------------------Lessons----------------------*/
 
 .lessons-title {
