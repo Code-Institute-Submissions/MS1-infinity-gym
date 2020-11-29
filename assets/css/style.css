@@ -14,12 +14,6 @@ body {
 	color: #432d54;
 }
 
-.mark-title {
-	background: #948eb7;
-	color: #fafafa;
-}
-
-
 /*-------------------Lessons----------------------*/
 
 .lessons-title {
@@ -220,7 +214,7 @@ body {
 	background-color: transparent;
 }
 
-.nav-item a:hover {
+.nav-link a:hover {
 	color: purple;
 }
 
