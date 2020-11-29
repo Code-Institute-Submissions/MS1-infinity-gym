@@ -381,17 +381,16 @@ U can find information about cloning or downloading a repository [here](https://
 •	The photographs I used were obtained from [Pexels](https://www.pexels.com/) I’ve used the photo’s from different photographers such as;
 
 -	Leon Martinez (bootcamp.jpg, )
--	Andrea Piacquadio ()
--	Cottonbro
+-	Andrea Piacquadio (pricilla.jpg, bodystep.jpg, pilates.jpg, yoga.jpg, lessons-page.jpg)
 -   William Choquette (angelo.jpg)
 -   Scott Webb (bootcamp1.jpg)
 -   Maarten van den Heuvel (spinning.jpg)
 
-•	The Infinity Gym Logo I made myself. (logo.jpg)
+-   The Infinity Gym Logo I made myself. (logo.jpg)
 
 
 ### Acknowledgements
 
-I want to thank my mentor for givin met good advice and confidence i could do it.
+I want to thank my mentor for giving me good advice and the confidence i could do it. 
 
 
