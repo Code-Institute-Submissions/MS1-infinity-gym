@@ -217,11 +217,14 @@ User’s goal:
 *   On the navigation bar in the top right corner of the corner page, the user will find the item “Location” which gives the user the contact details of the gym.
 
 Site owner’s Goal:
+
 **As the site owner, I want the user to have an easily accessible site.**
 *   The user can easily move around the navigation bar and see the menu items.
+*   The user can easily navigate through the site and you will be easily redirected to the respective page.
 
 **As the site owner, I want to be able to inform visitors of the class timetables.**
 *   The user can find a simple and clear timetable (Monday-Sunday) on the timetable page.
+
 
 **As the site owner, I want to be able to inform visitors the location of the gym.**
 *   The user can easily navigate to the location page.
@@ -264,6 +267,7 @@ All pages and navigation links work properly and have been checked.
 4.	Below the message is an A "Call us" button. Hover over the “Call us” button, you will see the color change.
 5.	When u click on the call us button on a desktop a pop-up will appear with the number where infinity Gym can be reached. (This button is repeated on every page.) 
 6.	On a mobile device a pop-up will appear with the number, when clicking on the phone number you immediately get the option to call the number. <img src="assets/documents/messagecall.jpg">
+7.  The user can control all actions related to pop-ups.
 
 *About:*
 1.	Below the message is a small introduction about the gym and a link that refers you to the lessons that are given at Infinity Gym. Hover over the lesson button the color will change. 
@@ -271,7 +275,7 @@ All pages and navigation links work properly and have been checked.
 	
 *Footer:* 
 1.	In the footer you will find the contact, it contains the opening hours and telephone number of the gym.
-2.	On a mobile when clicking on the phone number, you immediately get the option to call the number. <img src="assets/documents/footercall.jpg">
+2.	On a mobile when clicking on the phone number, you immediately get the option to call the number. The user can control all actions related to pop-ups <img src="assets/documents/footercall.jpg">
 3.	In the middle of the footer there is a download link of the timetable.
 4.	When you click on the link, another page opens with the timetable so that you can download and / or print it. The link works and opens another page to the timetable. 
 5.	If you hover over the social media icons, you will see that it changes purple in color.
@@ -288,13 +292,14 @@ The navigation bar will be the same as the home page. Everything works as it sho
 2.	If you scroll down, the jumbotron background image will stay and the text will scroll over the photo.
 3.	If I resize the screen to an iPad or iPhone the jumbotron background image does not work. On Stack overflow I’ve read that the jumbotron does not (yet) work on small devices. what I did is resize the jumbotron background. You will see the photo will move when you scroll down the page.
 4.	Below the photo you will find a short intro about the lessons.
-5.	Below the intro is the "Call us" button which can also be found on the home page, this is easy for the user to find the number
+5.	Below the intro is the "Call us" button which can also be found on the home page, this is easy for the user to find the number. The user can control all actions related to pop-ups
 
 *Lessons:*
 1.	Information is provided on the different lessons available at Infinity Gym.
-2.	Below the information of the lesson there will be button that refers you to the Timetable.
-3.	Hover over the timetable button the color will change. 
-4.	Click on the button and it will direct you to the “timetable” page. The link works and takes you to the timetable page. 
+2.  The photos I used for this website have the correct style and color and have not been stretched or squashed.
+3.	Below the information of the lesson there will be button that refers you to the Timetable.
+4.	Hover over the timetable button the color will change. 
+5.	Click on the button and it will direct you to the “timetable” page. The link works and takes you to the timetable page. 
 
 *Footer:*
 
