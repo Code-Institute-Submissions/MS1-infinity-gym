@@ -169,7 +169,7 @@ Btn hover #purple
 ---
 #### W3C URL Validator
 When I first passed my site through the validation, it revealed 3 errors, 
-<img src="assets/testing/validator.jpg" width="80%" height="80%">
+<img src="assets/testing/validator.jpg" width="50%" height="50%">
 
 1.	I changed a < p > to a < h6 >
 2.	I changed the btn names on all pages.
