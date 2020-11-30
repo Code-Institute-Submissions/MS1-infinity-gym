@@ -158,7 +158,7 @@ For the typography I have used Roboto with a backup font of Sans-serif. It is a 
 The font is also easy to read on smaller devices.
 
 I used adobe color scheme for choosing the colors of my website.
-<img src="assets/documents/adobe-color.jpg">
+<img src="assets/documents/adobe-color.jpg" width="60%" height="60%">
 Body text: #432d54
 
 Title of the gym  #948eb7
@@ -203,20 +203,21 @@ User’s goal:
 **As a user, I want to know what lessons available in the gym**
 
 *   On a desktop, a simple navigation bar is displayed in the top right corner of the corner page. The "Lessons" item provides users with information about all the classes taught at Infinity Gym.
-<img src="assets/testing/testing1.jpg">
+<img src="assets/testing/testing1.jpg" width="50%" height="50%">
 *   If you are interested in one of the lessons, there is a button at the bottom of the explanation that refers to the “Timetable”.
-*   On a mobile device, you will see a drop-down menu with the options "Lessons". <img src="assets/testing/testing2.jpg"><img src="assets/testing/testing3.jpg">
+*   On a mobile device, you will see a drop-down menu with the options "Lessons". <img src="assets/testing/testing2.jpg" width="50%" height="50%">
+<img src="assets/testing/testing3.jpg" width="50%" height="50%">
 
 **As a user, I want to know the class timetable so that I can plan my workout routine around my favorite lesson.**
 *   On a desktop, a simple navigation bar is displayed in the top right corner of the corner page. The "Timetable" item provides users with information about a weekly timetable. 
-<img src="assets/testing/testing4.jpg">
+<img src="assets/testing/testing4.jpg" width="50%" height="50%">
 *   he class schedule from Monday to Sunday is displayed on the schedule page. It is easily accessible from the navigation bar.
 *   If you are interested in one of the lessons from the timetable, there is a button at the bottom of the timetable that refers to the “Lessons”.
 *   On a mobile device, you will see a drop-down menu with the options " Timetable”.
 
 **As a user, I want to be able to locate the gym.**
 *   On a desktop, a simple navigation bar is displayed in the top right corner of the corner page. The "Location" item provides users with information about the location.
-*   The address and a picture of “Google maps” will show the location of Infinity Gym. <img src="assets/testing/testing6.jpg">
+*   The address and a picture of “Google maps” will show the location of Infinity Gym. <img src="assets/testing/testing6.jpg" width="50%" height="50%">
 *   On a mobile device you will see a dropdown box with the options “Location”.
 
 **As a user, I want to view the gym’s contact information so that I can ask about the membership.**
@@ -231,7 +232,7 @@ Site owner’s Goal:
 
 **As the site owner, I want to be able to inform visitors of the class timetables.**
 *   The user can find a simple and clear timetable (Monday-Sunday) on the timetable page.
-*   The user can easily download the timetable in the footer of the page.<img src="assets/testing/testing7.jpg">
+*   The user can easily download the timetable in the footer of the page.<img src="assets/testing/testing7.jpg" width="50%" height="50%">
 
 
 **As the site owner, I want to be able to inform visitors the location of the gym.**
@@ -274,7 +275,7 @@ All pages and navigation links work properly and have been checked.
 3.	If I resize the screen to an iPad or iPhone the jumbotron background image does not work. On Stack overflow I’ve read that the jumbotron does not (yet) work on small devices. what I did is resize the jumbotron background. So that you can read the message on smaller devices.
 4.	Below the message is an A "Call us" button. Hover over the “Call us” button, you will see the color change.
 5.	When u click on the call us button on a desktop a pop-up will appear with the number where infinity Gym can be reached. (This button is repeated on every page.) 
-6.	On a mobile device a pop-up will appear with the number, when clicking on the phone number you immediately get the option to call the number. <img src="assets/testing/messagecall.jpg">
+6.	On a mobile device a pop-up will appear with the number, when clicking on the phone number you immediately get the option to call the number. <img src="assets/testing/messagecall.jpg" width="50%" height="50%">
 7.  The user can control all actions related to pop-ups.
 
 *About:*
@@ -283,7 +284,7 @@ All pages and navigation links work properly and have been checked.
 	
 *Footer:* 
 1.	In the footer you will find the contact, it contains the opening hours and telephone number of the gym.
-2.	On a mobile when clicking on the phone number, you immediately get the option to call the number. The user can control all actions related to pop-ups <img src="assets/testing/footercall.jpg">
+2.	On a mobile when clicking on the phone number, you immediately get the option to call the number. The user can control all actions related to pop-ups <img src="assets/testing/footercall.jpg" width="50%" height="50%">
 3.	In the middle of the footer there is a download link of the timetable.
 4.	When you click on the link, another page opens with the timetable so that you can download and / or print it. The link works and opens another page to the timetable. 
 5.	If you hover over the social media icons, you will see that it changes purple in color.
