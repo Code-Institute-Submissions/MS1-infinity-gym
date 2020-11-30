@@ -224,7 +224,7 @@ Site owner’s Goal:
 
 **As the site owner, I want to be able to inform visitors of the class timetables.**
 *   The user can find a simple and clear timetable (Monday-Sunday) on the timetable page.
-*   The user can easily download the timetable in the footer of the page
+*   The user can easily download the timetable in the footer of the page.
 
 
 **As the site owner, I want to be able to inform visitors the location of the gym.**
