@@ -164,7 +164,7 @@ Btn hover #purple
 ---
 #### W3C URL Validator
 When I first passed my site through the validation, it revealed 3 errors, 
-<img src="assets/documents/validator.jpg">
+<img src="assets/testing/validator.jpg">
 
 1.	I changed a < p > to a < h6 >
 2.	I changed the btn names on all pages.
@@ -267,7 +267,7 @@ All pages and navigation links work properly and have been checked.
 3.	If I resize the screen to an iPad or iPhone the jumbotron background image does not work. On Stack overflow I’ve read that the jumbotron does not (yet) work on small devices. what I did is resize the jumbotron background. So that you can read the message on smaller devices.
 4.	Below the message is an A "Call us" button. Hover over the “Call us” button, you will see the color change.
 5.	When u click on the call us button on a desktop a pop-up will appear with the number where infinity Gym can be reached. (This button is repeated on every page.) 
-6.	On a mobile device a pop-up will appear with the number, when clicking on the phone number you immediately get the option to call the number. <img src="assets/documents/messagecall.jpg">
+6.	On a mobile device a pop-up will appear with the number, when clicking on the phone number you immediately get the option to call the number. <img src="assets/testing/messagecall.jpg">
 7.  The user can control all actions related to pop-ups.
 
 *About:*
@@ -276,7 +276,7 @@ All pages and navigation links work properly and have been checked.
 	
 *Footer:* 
 1.	In the footer you will find the contact, it contains the opening hours and telephone number of the gym.
-2.	On a mobile when clicking on the phone number, you immediately get the option to call the number. The user can control all actions related to pop-ups <img src="assets/documents/footercall.jpg">
+2.	On a mobile when clicking on the phone number, you immediately get the option to call the number. The user can control all actions related to pop-ups <img src="assets/testing/footercall.jpg">
 3.	In the middle of the footer there is a download link of the timetable.
 4.	When you click on the link, another page opens with the timetable so that you can download and / or print it. The link works and opens another page to the timetable. 
 5.	If you hover over the social media icons, you will see that it changes purple in color.
@@ -346,12 +346,12 @@ The navigation bar will be the same as the home page. Everything works as it sho
 The footer information will be the same as the homepage. These have all been tested individually on each page and all work.
 
 
-I've als put my testing in a pdf file [Click here](assets/documents/testing.pdf)
+I've als put my testing in a pdf file [Click here](assets/testing/testing.pdf)
 
 #### Lighthouse
 
-<img src="assets/documents/lighthouse1.jpg">
-<img src="assets/documents/lighthouse2.jpg">
+<img src="assets/testing/lighthouse1.jpg">
+<img src="assets/testing/lighthouse2.jpg">
 
 After testing the response from the lighthouse, it turned out that my photos were on the large side. However, this is not very bad for the desktop version, but for the mobile devices the average response is immediately reduced.
 
