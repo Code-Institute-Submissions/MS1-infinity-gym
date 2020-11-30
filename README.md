@@ -198,7 +198,7 @@ User’s goal:
 **As a user, I want to know what lessons available in the gym**
 
 *   On a desktop, a simple navigation bar is displayed in the top right corner of the corner page. The "Lessons" item provides users with information about all the classes taught at Infinity Gym.
-<img src="assets/testing/testing.jpg">
+<img src="assets/testing/testing1.jpg">
 *   If you are interested in one of the lessons, there is a button at the bottom of the explanation that refers to the “Timetable”.
 *   On a mobile device, you will see a drop-down menu with the options "Lessons". <img src="assets/testing/testing2.jpg"><img src="assets/testing/testing3.jpg">
 
