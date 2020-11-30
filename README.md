@@ -304,7 +304,10 @@ All pages and navigation links work properly and have been checked.
 	
 *Footer:* 
 1.	In the footer you will find the contact, it contains the opening hours and telephone number of the gym.
-2.	On a mobile when clicking on the phone number, you immediately get the option to call the number. The user can control all actions related to pop-ups <img src="assets/testing/footercall.jpg" width="50%" height="50%">
+2.	On a mobile when clicking on the phone number, you immediately get the option to call the number. The user can control all actions related to pop-ups 
+
+    <img src="assets/testing/footercall.jpg" width="50%" height="50%">
+    
 3.	In the middle of the footer there is a download link of the timetable.
 4.	When you click on the link, another page opens with the timetable so that you can download and / or print it. The link works and opens another page to the timetable. 
 5.	If you hover over the social media icons, you will see that it changes purple in color.
