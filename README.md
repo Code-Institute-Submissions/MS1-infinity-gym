@@ -169,7 +169,7 @@ Btn hover #purple
 ---
 #### W3C URL Validator
 When I first passed my site through the validation, it revealed 3 errors, 
-<img src="assets/testing/validator.jpg">
+<img src="assets/testing/validator.jpg" width="80%" height="80%">
 
 1.	I changed a < p > to a < h6 >
 2.	I changed the btn names on all pages.
@@ -220,7 +220,7 @@ User’s goal:
 *   On a mobile device you will see a dropdown box with the options “Location”.
 
 **As a user, I want to view the gym’s contact information so that I can ask about the membership.**
-*   On a desktop, you can press the "Call us" button when opening the website. A pop-up will open with the phone number of Infinity Gym.<img src="assets/testing/testing5.jpg">
+*   On a desktop, you can press the "Call us" button when opening the website. A pop-up will open with the phone number of Infinity Gym.<img src="assets/testing/testing5.jpg" width="60%" height="60%">
 *   On the navigation bar in the top right corner of the corner page, the user will find the item “Location” which gives the user the contact details of the gym.
 
 Site owner’s Goal:
