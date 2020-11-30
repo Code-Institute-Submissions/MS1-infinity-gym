@@ -144,7 +144,12 @@ During this process I modified the website several times and it doesn't look qui
 -    I used this tool to validate my CSS code.
 
 **[Dillinger](https://dillinger.io/)**
--   i used dillenger for my readme file.
+-   I used dillenger for my readme file.
+
+**[Wave Webaim](https://wave.webaim.org/)**
+I used this site to give me the right contrast of the site colors
+
+https://wave.webaim.org/
 
 ### Typography + Color
 ---
