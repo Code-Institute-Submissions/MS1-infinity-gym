@@ -333,7 +333,7 @@ body {
 
 .download i {
 	text-align: center; 
-    color: #b4aaf0;
+    color: #fafafa;
 }
 
 .download i:hover {
@@ -349,7 +349,7 @@ body {
 }
 
 .social-media i {
-	color: #b4aaf0;
+	color: #fafafa;
     font-size: 120%;
 	margin: 1%;
 	padding: 2%;
