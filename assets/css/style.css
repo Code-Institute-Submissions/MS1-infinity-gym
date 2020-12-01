@@ -16,7 +16,7 @@ body {
 
 .mark-title {
     letter-spacing: 2px;
-    color: #432d54;
+    color: #fafafa;
     background-color: #948eb7
 }
 
@@ -236,7 +236,9 @@ body {
 .btn, 
 .btn-outline-light,
 .btn-md {
-	color: purple;
+	color: #fafafa;
+    background-color: #948eb7;
+    font-weight: bold;
 }
 
 .menu {
@@ -303,7 +305,8 @@ body {
 .footer-info {
 	background: #948eb7;
 	padding: 10px 0px;
-	color: #432d54;
+	color: #fafafa;
+    font-weight: bold;
 }
 
 .contact {
