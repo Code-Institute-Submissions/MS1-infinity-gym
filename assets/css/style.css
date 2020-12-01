@@ -17,7 +17,7 @@ body {
 .mark-title {
     letter-spacing: 2px;
     color: #fafafa;
-    background-color: #948eb7
+    background-color: #948eb7;
 }
 
 /*-------------------Lessons----------------------*/
@@ -314,6 +314,10 @@ body {
 	text-align: center;
 }
 
+.contact p {
+    letter-spacing: 1px;
+}
+
 .title {
 	letter-spacing: 2px;
 	text-transform: uppercase;
@@ -326,7 +330,6 @@ body {
 .download i {
 	text-align: center;
     color: purple;
-    
 }
 
 .download i:hover {
