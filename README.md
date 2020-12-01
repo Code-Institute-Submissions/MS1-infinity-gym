@@ -244,7 +244,7 @@ Site owner’s Goal:
 
 **As the site owner, I want to be able to inform visitors of the class timetables.**
 *   The user can find a simple and clear timetable (Monday-Sunday) on the timetable page.
-*   The user can easily download the timetable in the footer of the page.
+*   The user can easily download the timetable in the footer of the page. This page will open on a seperate pagina.
 
     <img src="assets/testing/testing-footer.jpg" width="50%" height="50%">
 
@@ -374,8 +374,8 @@ The footer information will be the same as the homepage. These have all been tes
 
 #### Lighthouse
 
-<img src="assets/testing/lighthouse-desktop.jpg">
-<img src="assets/testing/lighthouse-mobile.jpg">
+<img src="assets/testing/lighthouse-desktop.jpg" width="50%" height="50%">
+<img src="assets/testing/lighthouse-mobile.jpg" width="50%" height="50%">
 
 After testing the response from the lighthouse, it turned out that my photos were on the large side. However, this is not very bad for the desktop version, but for the mobile devices the average response is immediately reduced.
 
@@ -386,7 +386,12 @@ I have adjusted these pictures for all pages but the response from the lighthous
 For the deployment of infinity Gym website, I used Github pages. follow the next steps to my URL:
 
 1.	Log in to my GitHub account and find my repository (gwenjo/MS1-infinity-gym), open the github page.
-2.	Click on Settings and find GitHub Pages (see photos, [GitHub page](/assets/documents/github-pages.jpg) and [GitHub Site](./assets/documents/github-sitename.png))
+2.	Click on Settings and find GitHub Pages (see photo’s below)
+
+<img src="assets/documents/github-pages.jpg">
+
+<img src="assets/documents/github-sitename.jpg">
+
 3.	Select ‘None’ in the dropdown 
 4.	Then select ‘master’ and “Save”
 5.	Now select ‘Branch: Master
