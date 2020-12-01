@@ -130,10 +130,6 @@ During this process I modified the website several times and it doesn't look qui
 **[Am I Responsive Design](http://ami.responsivedesign.is)**
 -   For my mockup in my readme file i used Am I Responsive Design.
 
-**[CSS Tricks](https://css-tricks.com/)**
--   For the button "Call us" I used the "model" code of css-tricks, I changed this to a only "call us" pop-up. 
-    The only information you will find in this pop-up is the telephone number of Infinity Gym.
-
 **[Auto-Prefixer](https://autoprefixer.github.io)**
 -   I used auto-prefixer to make sure my CSS works on all modern browsers.
 
@@ -404,7 +400,20 @@ U can find information about cloning or downloading a repository [here](https://
 ---
 
 ### Content
-•	All the text and stories were written by me.
+*   All texts and stories are made up and written by me (Gwendolyn Jo).
+
+*   For my Navbar i've used the components of [Bootstrap](https://getbootstrap.com/docs/4.5/components/navbar/)
+
+*   For the button "Call us" I used the "model" code from [Bootstrap](https://getbootstrap.com/docs/4.5/components/modal/), I changed this to a only "call us" pop-up. 
+    The only information you will find in this pop-up is the telephone number of Infinity Gym.
+
+*   For the message text i've used jumbotron from [Bootstrap](https://getbootstrap.com/docs/4.5/components/jumbotron/) and modified it to my website.
+
+*   For my review section i've got my insperation of [W3 school](https://www.w3schools.com/tags/tag_blockquote.asp). In particular the blockquotes tags.
+
+*   The address element I got from [W3 school](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_address) 
+
+*   The idea of the download i got from the course [Rosie Resume](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/e1da3f354d874bbb8dbc996d658a66e8/?activate_block_id=block-v1%3Acodeinstitute%2BFE%2B2017_T3%2Btype%40sequential%2Bblock%40e1da3f354d874bbb8dbc996d658a66e8)
 
 ### Media
 •	The photographs I used were obtained from [Pexels](https://www.pexels.com/) I’ve used the photo’s from different photographers such as;
