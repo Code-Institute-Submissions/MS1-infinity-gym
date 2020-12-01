@@ -399,28 +399,28 @@ body {
 @media only screen and (max-width: 375px) {
 	/* style rules for screens ≤ 320px wide */
 	.jumbotron-container {
-		background: url('../images/bootcamp2.jpg') no-repeat;
+		background: url('../images/bootcamp-media.jpg') no-repeat;
 		height: 290px;
 		width: 100%;
 		background-position: center;
 		background-size: cover;
 	}
 	.jumbotron-container-lessons {
-		background: url('../images/lessons1.jpg') no-repeat;
+		background: url('../images/lessons-media.jpg') no-repeat;
 		height: 290px;
 		width: 100%;
 		background-position: center;
 		background-size: cover;
 	}
 	.jumbotron-container-timetable {
-		background: url('../images/timetable1.jpg') no-repeat;
+		background: url('../images/timetable-media.jpg') no-repeat;
 		height: 320px;
 		width: 100%;
 		background-position: center;
 		background-size: cover;
 	}
 	.jumbotron-container-location {
-		background: url('../images/location1.jpg') no-repeat;
+		background: url('../images/location-media.jpg') no-repeat;
 		height: 320px;
 		width: 100%;
 		background-position: center;
