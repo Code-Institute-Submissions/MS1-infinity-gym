@@ -17,7 +17,7 @@ body {
 .mark-title {
     letter-spacing: 2px;
     color: #fafafa;
-    background-color: #948eb7;
+    background-color: #514C76;
 }
 
 /*-------------------Lessons----------------------*/
@@ -230,14 +230,13 @@ body {
 
 .btn-other {
 	color: white;
-	background-color: #948eb7;
 }
 
 .btn, 
 .btn-outline-light,
 .btn-md {
 	color: #fafafa;
-    background-color: #948eb7;
+    background-color: #514C76;
     font-weight: bold;
 }
 
