@@ -302,7 +302,7 @@ body {
 /*--------------------Footer----------------------*/
 
 .footer-info {
-	background: #948eb7;
+	background:  #514C76;
 	padding: 10px 0px;
 	color: #fafafa;
     font-weight: bold;
@@ -327,12 +327,12 @@ body {
 }
 
 .download i {
-	text-align: center;
-    color: purple;
+	text-align: center; 
+    color: #b4aaf0;
 }
 
 .download i:hover {
-	color: #b4aaf0;
+	color: purple;
 }
 
 .social-media {
@@ -344,14 +344,14 @@ body {
 }
 
 .social-media i {
-	color: purple;
+	color: #b4aaf0;
     font-size: 120%;
 	margin: 1%;
 	padding: 2%;
 }
 
 .social-media li a i:hover {
-	color: #b4aaf0;
+    color: purple;
 }
 
 /*----------Media Queries------------------*/
