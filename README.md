@@ -163,6 +163,13 @@ Title of the gym  #948eb7
 
 Btn hover #purple
 
+When I was almost finished with my website. My mentor told me that my contrasts weren't quite right in my headers, buttons, and footers.
+
+I had to adjust these colors to get the contrasts of my website right.
+
+For my buttons i've used color
+
+
 ## Testing
 ---
 #### W3C URL Validator
