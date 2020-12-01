@@ -415,6 +415,8 @@ U can find information about cloning or downloading a repository [here](https://
 
 *   The idea of the download i got from the course [Rosie Resume](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/e1da3f354d874bbb8dbc996d658a66e8/?activate_block_id=block-v1%3Acodeinstitute%2BFE%2B2017_T3%2Btype%40sequential%2Bblock%40e1da3f354d874bbb8dbc996d658a66e8)
 
+*   For my timetable I first used a simple table from w3 schools. My mentor indicated that there were nicer tables on [bootstrap](https://getbootstrap.com/docs/4.5/content/tables/). I changed my table and made it more appealing.
+
 ### Media
 •	The photographs I used were obtained from [Pexels](https://www.pexels.com/) I’ve used the photo’s from different photographers such as;
 
