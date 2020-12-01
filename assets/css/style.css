@@ -322,8 +322,13 @@ body {
 	text-transform: uppercase;
 }
 
+.title-download {
+    letter-spacing: 1px;
+}
+
 .download {
 	text-align: center;
+    font-size: 14px;
 }
 
 .download i {
