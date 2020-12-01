@@ -207,19 +207,19 @@ User’s goal:
 
 *   On a desktop, a simple navigation bar is displayed in the top right corner of the corner page. The "Lessons" item provides users with information about all the classes taught at Infinity Gym.
 
-    <img src="assets/testing/testing1.jpg" width="50%" height="50%">
+    <img src="assets/testing/navbar.jpg" width="50%" height="50%">
 
 *   If you are interested in one of the lessons, there is a button at the bottom of the explanation that refers to the “Timetable”.
 *   On a mobile device, you will see a drop-down menu with the options "Lessons". 
 
-    <img src="assets/testing/testing2.jpg" width="50%" height="50%">
+    <img src="assets/testing/navbar-drop.jpg" width="50%" height="50%">
 
-    <img src="assets/testing/testing3.jpg" width="50%" height="50%">
+    <img src="assets/testing/navbar-dropdown.jpg" width="50%" height="50%">
 
 **As a user, I want to know the class timetable so that I can plan my workout routine around my favorite lesson.**
 *   On a desktop, a simple navigation bar is displayed in the top right corner of the corner page. The "Timetable" item provides users with information about a weekly timetable. 
 
-    <img src="assets/testing/testing4.jpg" width="50%" height="50%">
+    <img src="assets/testing/testing-timetable.jpg" width="50%" height="50%">
 
 *   The class schedule from Monday to Sunday is displayed on the schedule page. It is easily accessible from the navigation bar.
 *   If you are interested in one of the lessons from the timetable, there is a button at the bottom of the timetable that refers to the “Lessons”.
@@ -229,14 +229,14 @@ User’s goal:
 *   On a desktop, a simple navigation bar is displayed in the top right corner of the corner page. The "Location" item provides users with information about the location.
 *   The address and a picture of “Google maps” will show the location of Infinity Gym. 
 
-    <img src="assets/testing/testing6.jpg" width="50%" height="50%">
+    <img src="assets/testing/testing-location.jpg" width="50%" height="50%">
 
 *   On a mobile device you will see a dropdown box with the options “Location”.
 
 **As a user, I want to view the gym’s contact information so that I can ask about the membership.**
 *   On a desktop, you can press the "Call us" button when opening the website. A pop-up will open with the phone number of Infinity Gym.
 
-    <img src="assets/testing/testing5.jpg" width="60%" height="60%">
+    <img src="assets/testing/testing-popup.jpg" width="60%" height="60%">
 
 *   On the navigation bar in the top right corner of the corner page, the user will find the item “Location” which gives the user the contact details of the gym.
 
@@ -250,7 +250,7 @@ Site owner’s Goal:
 *   The user can find a simple and clear timetable (Monday-Sunday) on the timetable page.
 *   The user can easily download the timetable in the footer of the page.
 
-    <img src="assets/testing/testing7.jpg" width="50%" height="50%">
+    <img src="assets/testing/testing-footer.jpg" width="50%" height="50%">
 
 **As the site owner, I want to be able to inform visitors the location of the gym.**
 *   The user can easily navigate to the location page.
@@ -294,7 +294,7 @@ All pages and navigation links work properly and have been checked.
 5.	When u click on the call us button on a desktop a pop-up will appear with the number where infinity Gym can be reached. (This button is repeated on every page.) 
 6.	On a mobile device a pop-up will appear with the number, when clicking on the phone number you immediately get the option to call the number. 
 
-    <img src="assets/testing/messagecall.jpg" width="50%" height="50%">
+    <img src="assets/testing/messagecall.jpg" width="25%" height="25%">
 
 7.  The user can control all actions related to pop-ups.
 
@@ -306,7 +306,7 @@ All pages and navigation links work properly and have been checked.
 1.	In the footer you will find the contact, it contains the opening hours and telephone number of the gym.
 2.	On a mobile when clicking on the phone number, you immediately get the option to call the number. The user can control all actions related to pop-ups 
 
-    <img src="assets/testing/footercall.jpg" width="50%" height="50%">
+    <img src="assets/testing/footercall.jpg" width="25%" height="25%">
     
 3.	In the middle of the footer there is a download link of the timetable.
 4.	When you click on the link, another page opens with the timetable so that you can download and / or print it. The link works and opens another page to the timetable. 
@@ -378,8 +378,8 @@ The footer information will be the same as the homepage. These have all been tes
 
 #### Lighthouse
 
-<img src="assets/testing/lighthouse1.jpg">
-<img src="assets/testing/lighthouse2.jpg">
+<img src="assets/testing/lighthouse-desktop.jpg">
+<img src="assets/testing/lighthouse-mobile.jpg">
 
 After testing the response from the lighthouse, it turned out that my photos were on the large side. However, this is not very bad for the desktop version, but for the mobile devices the average response is immediately reduced.
 
@@ -390,7 +390,7 @@ I have adjusted these pictures for all pages but the response from the lighthous
 For the deployment of infinity Gym website, I used Github pages. follow the next steps to my URL:
 
 1.	Log in to my GitHub account and find my repository (gwenjo/MS1-infinity-gym), open the github page.
-2.	Click on Settings and find GitHub Pages (see photos, [GitHub 1](/assets/documents/github1.jpg) and [GitHub 2](./assets/documents/github2.png))
+2.	Click on Settings and find GitHub Pages (see photos, [GitHub page](/assets/documents/github-pages.jpg) and [GitHub Site](./assets/documents/github-sitename.png))
 3.	Select ‘None’ in the dropdown 
 4.	Then select ‘master’ and “Save”
 5.	Now select ‘Branch: Master
