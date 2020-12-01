@@ -21,6 +21,7 @@ body {
 }
 .mark {
     background-color: #585555;
+    color: #fafafa;
 }
 
 /*-------------------Lessons----------------------*/
@@ -321,11 +322,6 @@ body {
     color: #fafafa;
 }
 
-.phonenumber {
-    color: #fafafa;
-}
-
-
 .title {
 	letter-spacing: 2px;
 	text-transform: uppercase;
@@ -426,6 +422,11 @@ body {
 		background-size: cover;
         font-size: 80%;
 	}
+    .mark {
+        background-color: #585555;
+        color: #fafafa;
+        font-size: 60%;
+}
 	.jumbotron-container-lessons {
 		background: url('../images/lessons-media.jpg') no-repeat;
 		height: 290px;
