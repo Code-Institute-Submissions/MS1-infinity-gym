@@ -342,7 +342,7 @@ body {
 }
 
 .download i:hover {
-	color: purple;
+	color: #FFEBFF;
 }
 
 .social-media {
@@ -361,7 +361,7 @@ body {
 }
 
 .social-media li a i:hover {
-    color: purple;
+    color: #FFEBFF;
 }
 
 /*----------Media Queries------------------*/
