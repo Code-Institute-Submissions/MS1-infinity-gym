@@ -315,7 +315,13 @@ body {
 
 .contact p {
     letter-spacing: 1px;
+    color: #fafafa;
 }
+
+.phonenumber {
+    color: #fafafa;
+}
+
 
 .title {
 	letter-spacing: 2px;
@@ -404,6 +410,7 @@ body {
 		background-position: center;
 		background-size: cover;
 	}
+
 }
 
 @media only screen and (max-width: 375px) {
@@ -414,6 +421,7 @@ body {
 		width: 100%;
 		background-position: center;
 		background-size: cover;
+        font-size: 80%;
 	}
 	.jumbotron-container-lessons {
 		background: url('../images/lessons-media.jpg') no-repeat;
@@ -490,4 +498,5 @@ body {
 		font-weight: bold;
 		font-size: 90%;
 	}
+
 }
