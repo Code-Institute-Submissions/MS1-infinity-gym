@@ -168,10 +168,10 @@ When I was almost finished with my website. My mentor told me that my color cont
 I ran my website through [Wave Webaim](https://wave.webaim.org/) to see what the errors were. So I had to adjust the colors to get the right contrasts
 for my website.
 
-I've used a darker color #514C76 for my buttons with a font color #fafafa
+I've used a darker color #514C76 for my buttons with a font color #fafafa.
 For my jumbotron message i had to mark the message and color it #585555 to give it a better contrast and to see it more clearly.
 
-Footer has the same color as the buttons color #514C76
+Footer has the same color as the buttons color #514C76 the font color is #fafafa.
 
 For the download link and the media icons i used a light pink color #DB7093. however, when I run it through the webaim it still returns it as an error, 
 i'm aware of it and i will fix this ussue in the future.
@@ -190,22 +190,22 @@ When I first passed my site through the validation, it revealed 3 errors,
 After correcting it I ran it through the validator again and it came back without errors.
 
 #### W3C HTML Validator
-The following pages were passed through the W3C HTML validator:
+The following pages were passed through the W3C HTML validator individually:
 *   index.html
 *   lessons.html
 *   timetable.html
 *   location.html
 
-Some minor errors were found. Such as closing} and too many spaces between code. This has been 
-corrected and passed through the W3C CSS validator again. The page passed without errors or warnings.
+Some minor errors were found. Such as closing } and too many spaces between code. This has been 
+corrected and passed through the W3C CSS validator again. The pages passed without errors or warnings.
 
 #### W3C CSS Validator
 
-The following pages were passed through the W3C CSS validator:
+The following page were passed through the W3C CSS validator:
 
 *   style.css
 
-Some minor errors were found. Such as closing} and too many spaces between code. This has been corrected 
+Some minor errors were found. Such as closing } and too many spaces between code. This has been corrected 
 and passed through the W3C CSS validator again. The page passed without errors or warnings.
 
 User Stories
@@ -214,7 +214,7 @@ User’s goal:
 
 **As a user, I want to know what lessons available in the gym**
 
-*   On a desktop, a simple navigation bar is displayed in the top right corner of the corner page. The "Lessons" item provides users with information about all the classes taught at Infinity Gym.
+*   On a desktop, a simple navigation bar is displayed in the top right corner of the page. The "Lessons" item provides users with information about all the classes taught at Infinity Gym.
 
     <img src="assets/testing/navbar.jpg" width="50%" height="50%">
 
