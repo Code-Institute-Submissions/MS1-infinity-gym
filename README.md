@@ -7,7 +7,7 @@
 
 Infinity Gym is a fictional gym. I set this up gym for my MS1 project
 
-The Infinity Gym site and his content has been created to increase the customer base.
+The purpose of the Infinity Gym site and his content has been created to increase the customer base.
 Infinity Gym is a gym and fitness center, this gym is open for about two months. The gym is located in Almere Poort 
 about 20 minutes from Amsterdam (The Netherlands). The gym has four rooms, two empty rooms for group lessons, 
 a spinning room and an extensive fitness room. The guests can therefore enjoy a good workout and / or (group) lessons here.
@@ -42,6 +42,9 @@ The wireframes:
     - Locations page can be viewed [here](assets/documents/wireframes.pdf)
 
 ## Setup
+
+###### about commit messages
+At first I struggled with commit messages to keep it short and concise, but over time I think I've improved.
 
 When I started on this project I already knew what I wanted. A simple website where everything is clear.
 
