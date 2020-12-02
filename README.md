@@ -15,7 +15,7 @@ a spinning room and an extensive fitness room. The guests can therefore enjoy a 
 ## User Experience (UX)
 ---
 
-<img src="assets/images/mockup.jpg">
+<img src="assets/documents/mockup.jpg">
 
 Infinity Gym would like to increase its customer base through a free first month promotion.
 User Story
@@ -168,21 +168,20 @@ When I was almost finished with my website. My mentor told me that my color cont
 I ran my website through [Wave Webaim](https://wave.webaim.org/) to see what the errors were. So I had to adjust the colors to get the right contrasts
 for my website.
 
-For my buttons i've used a darker color #514C76 with a font color #fafafa
-
-My jumbotron message i had to mark the message and color it # to give it better contrast and to see it more clearly.
+I've used a darker color #514C76 for my buttons with a font color #fafafa
+For my jumbotron message i had to mark the message and color it #585555 to give it a better contrast and to see it more clearly.
 
 Footer has the same color as the buttons color #514C76
 
 For the download link and the media icons i used a light pink color #DB7093. however, when I run it through the webaim it still returns it as an error, 
-i'm aware of it and i will fix this ussue in the future
+i'm aware of it and i will fix this ussue in the future.
 
 ## Testing
 ---
 #### W3C URL Validator
 When I first passed my site through the validation, it revealed 3 errors, 
 
-<img src="assets/testing/validator.jpg" width="50%" height="50%">
+<img src="assets/testing/validator.jpg" width="60%" height="60%">
 
 1.	I changed a < p > to a < h6 >
 2.	I changed the btn names on all pages.
