@@ -112,16 +112,16 @@ During this process I modified the website several times and it doesn't look qui
 
 **[PicCollage](https://piccollage.com/)**
 -   I made the logo myself. For the Logo I have used an app on my Iphone. So that I could type the name 
-(Infinity Gym) and easily could crop my logo.
+(Infinity Gym) and easily crop my logo.
 
 **[Pexels](https://pexels.com/)**
--   I've used photos from photographers who posted photos on pexels.
+-   I've used photos from various photographers who posted photos on pexels.
 
 **[Adobe Color](https://color.adobe.com/nl/create/color-wheel)**
 -   For the font-color I used Adobe Color. [Click here](assets/documents/adobe-color.jpg)
 
 **[W3School](https://www.w3schools.com/) + [Bootstrap](https://getbootstrap.com/)**
--   The first schedule I made was from W3School. but I didn't like the outcome of the table. 
+-   The first tietable I made was from W3School. but I didn't like the outcome of the table. 
     Then I continued my search and found one on Bootstrap.
 -   For the Quotes I used blockquotes from W3School.
 
@@ -134,7 +134,7 @@ During this process I modified the website several times and it doesn't look qui
 **[Auto-Prefixer](https://autoprefixer.github.io)**
 -   I used auto-prefixer to make sure my CSS works on all modern browsers.
 
-**[W3C HTMl Validator](https://validator.w3.org/)**
+**[W3C HTML Validator](https://validator.w3.org/)**
 -   I used this tool to validate my HTML code.
 
 **[W3C CSS Validator](http://jigsaw.w3.org/css-validator/)**
@@ -144,9 +144,7 @@ During this process I modified the website several times and it doesn't look qui
 -   I used dillenger for my readme file.
 
 **[Wave Webaim](https://wave.webaim.org/)**
-I used this site to give me the right contrast of the site colors
-
-https://wave.webaim.org/
+I used webaim to check the color contrast of my website.
 
 ### Typography + Color
 ---
