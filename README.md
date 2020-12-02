@@ -33,21 +33,17 @@ Site owner’s Goal:
 
 ## Wireframes   
 ---
-With the user stories I used [Balsamiq] (https://balsamiq.com/) to create a nice and simple layout for the desktop and mobile screen.
+With the user stories I used [Balsamiq](https://balsamiq.com/) to create a nice and simple layout for the desktop and mobile screen.
 
 The wireframes: 
-    - Home/ about page
-    - Lessons page
-    - Timetable page
-    - Locations page can be viewed [here](assets/documents/wireframes.pdf)
+*   Home/ about page
+*   Lessons page
+*   Timetable page and
+*   Locations page can be viewed [here](assets/documents/wireframes.pdf)
 
 ## Setup
-
-###### about commit messages
-At first I struggled with commit messages to keep it short and concise, but over time I think I've improved.
-
+---
 When I started on this project I already knew what I wanted. A simple website where everything is clear.
-
 Since I wanted to do everything perfectly in my head, I started over more than three times.
 I've been working on multiple screens and got confused and forgot to save the pages in "git add". So, I couldn't save it after a while.
 
@@ -56,6 +52,9 @@ I was able to restore my gitpod after saving everything, then clearing all .html
 creating new .html pages. 
 
 That way I could record everything again. Therefore, there is probably not enough committed pages.
+
+#### About commit messages
+At first I struggled with commit messages to keep it short and concise, but over time I think I've improved.
 
 ## Features
 ---
