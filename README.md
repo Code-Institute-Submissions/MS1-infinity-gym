@@ -51,7 +51,7 @@ After talking to my mentor, she told me I only committed 11 times. This was not 
 I was able to restore my gitpod after saving everything, then clearing all .html pages, then committed + pushing everything, then 
 creating new .html pages. 
 
-That way I could record everything again. Therefore, there is probably not enough committed pages.
+That way I could commit everything again. Therefore, there is probably not enough committed pages.
 
 #### About commit messages
 At first I struggled with commit messages to keep it short and concise, but over time I think I've improved.
@@ -59,14 +59,14 @@ At first I struggled with commit messages to keep it short and concise, but over
 ## Features
 ---
 ###### Navigationbar:
-Each page has a navigation bar that contains all links to every page on the website. The - Lessons, - Timetable and - Location page. 
-This is located at the top right of the page. Users can easily navigate through this. On the upper left side u will find the name of the gym
+Each page has a navigation bar that contains all links to every page on the website. The -home, -lessons, -timetable and -location page. 
+This is located at the top right of the page. Users can easily navigate through this. On the upper left side u will find the name of the gym.
 
 ###### Header:
 All pages contain the logo of the gym and a "Call us" button, which displays the gym's number when you click on it.
 
 ###### Footer:
-Each page also has a footer with contact details, opening times, a download button where users can download and / or print the timetable, 
+Each page also has a footer with contact details, opening times, a download button where users can download and / or print the timetable  
 and three social media links that give all users access to our social media platforms on a separate page.
 
 #### Existing Features
@@ -83,16 +83,15 @@ refers to the timetable.
 ###### Timetable-Page:
 A simple and clear timetable has been created where the user can easily find his or her class. The timetable provides a weekly timetable 
 with information about the times and locations where classes are conducted. It is also indicated how many people can participate in the 
-lesson due to Covid-19.
+lessons due to Covid-19.
 
 ###### Location-Page:
-The location page is easy to find via the main navigation. On this page you will find the address and a small map of the location.
+The location page is easy to find via the navigation bar. On this page you will find the address and a small map of the location.
 
 #### Features Left to Implement
 
-For the future of the website it would be easy to create a contact form. Interested parties 
-can then leave their e-mail address and the customer list can be expanded on this basis.
-
+For the future of the website, it would be easy to create a contact form. Interested parties
+can then leave their e-mail address and on this basis the customer list can be expanded.
 
 ## Technologies Used
 ---
