@@ -123,7 +123,7 @@ During this process I modified the website several times and it doesn't look qui
 **[W3School](https://www.w3schools.com/) + [Bootstrap](https://getbootstrap.com/)**
 -   The first tietable I made was from W3School. but I didn't like the outcome of the table. 
     Then I continued my search and found one on Bootstrap.
--   For the Quotes I used blockquotes from W3School.
+-   For the quotes I used blockquotes from W3School.
 
 **[Css Beautifier](https://www.freeformatter.com/css-beautifier.html)**
 -   I used this online tool to beautify/format my CSS code.
@@ -146,28 +146,36 @@ During this process I modified the website several times and it doesn't look qui
 **[Wave Webaim](https://wave.webaim.org/)**
 I used webaim to check the color contrast of my website.
 
-### Typography + Color
----
+### Typography
 
-For the typography I have used Roboto with a backup font of Sans-serif. It is a simple and easy to read font.
+For the typography I have used the Roboto font with a backup font of Sans-serif. It is a simple and easy to read font.
 The font is also easy to read on smaller devices.
 
+### Color
 I used adobe color scheme for choosing the colors of my website.
 
 <img src="assets/documents/adobe-color.jpg" width="60%" height="60%">
 
 Body text: #432d54
 
-Title of the gym  #948eb7
+Title of the gym: #948eb7
 
-Btn hover #purple
+Footer: #948eb7
 
-When I was almost finished with my website. My mentor told me that my contrasts weren't quite right in my headers, buttons, and footers.
+Btn hover: #purple
 
-I had to adjust these colors to get the contrasts of my website right.
+When I was almost finished with my website. My mentor told me that my color contrasts weren't quite right in my headers, buttons, and footers.
+I ran my website through [Wave Webaim](https://wave.webaim.org/) to see what the errors were. So I had to adjust the colors to get the right contrasts
+for my website.
 
-For my buttons i've used color
+For my buttons i've used a darker color #514C76 with a font color #fafafa
 
+My jumbotron message i had to mark the message and color it # to give it better contrast and to see it more clearly.
+
+Footer has the same color as the buttons color #514C76
+
+For the download link and the media icons i used a light pink color #DB7093. however, when I run it through the webaim it still returns it as an error, 
+i'm aware of it and i will fix this ussue in the future
 
 ## Testing
 ---
