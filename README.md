@@ -100,8 +100,7 @@ can then leave their e-mail address and on this basis the customer list can be e
 * Gitpod
 * HTML5 
 * CSS3
-* Bootstrap 4
-
+* Bootstrap 4.5.3
 
 ### Tools used
 ---
@@ -109,6 +108,9 @@ can then leave their e-mail address and on this basis the customer list can be e
 **[Balsamiq](https://balsamiq.com/)**
 -   Before I started the website I used the Balsamiq software to set up my wireframe. <br>
 During this process I modified the website several times and it doesn't look quite the same as the wireframes.
+
+**[Google Fonts](https://fonts.google.com/)**
+-   i've used Google Fonts to selectthe font for my website.
 
 **[PicCollage](https://piccollage.com/)**
 -   I made the logo myself. For the Logo I have used an app on my Iphone. So that I could type the name 
@@ -243,7 +245,7 @@ User’s goal:
 *   On a mobile device you will see a dropdown box with the options “Location”.
 
 **As a user, I want to view the gym’s contact information so that I can ask about the membership.**
-*   On a desktop, you can press the "Call us" button when opening the website. A pop-up will open with the phone number of Infinity Gym.
+*   On a desktop, you can press the "Call us" button when opening the website. A pop-up will open with the phone number of Infinity Gym. 
 
     <img src="assets/testing/testing-popup.jpg" width="60%" height="60%">
 
@@ -298,7 +300,7 @@ All pages and navigation links work properly and have been checked.
 *Message:*
 1.	When opening the website on a desktop you will first see a large photo in the background with the message stating that the first month is free.
 2.	If you scroll down, the jumbotron background image will stay and the text will scroll over the photo.
-3.	If I resize the screen to an iPad or iPhone the jumbotron background image does not work. On Stack overflow I’ve read that the jumbotron does not (yet) work on small devices. what I did is resize the jumbotron background. So that you can read the message on smaller devices.
+3.	If I resize the screen to an iPad or iPhone the responsiveness of the jumbotron background image does not work. On Stack overflow I’ve read that the jumbotron does not (yet) work on small devices. what I did is resize the jumbotron background. So that you can read the message on smaller devices.
 4.	Below the message is an a "Call us" button. Hover over the “Call us” button, you will see the color change.
 5.	The functionality of the call us buttons is tested and works on all pages.n When u click on the call us button on a desktop a pop-up will appear with the number where infinity Gym can be reached. (This button is repeated on every page.) 
 6.	For usability and responsiveness on a mobile device a popup will appear with the phone number of the gym, when you click on the phone number you will immediately be given the option to call the number. 
@@ -311,7 +313,7 @@ All pages and navigation links work properly and have been checked.
 	
 *Footer:* 
 1.	In the footer you will find the contact, it contains the opening hours and telephone number of the gym.
-2.	The usability and responsiveness on a mobile device is when clicking on the phone number, you immediately get the option to call the number. 
+2.	The usability and responsiveness on a mobile device, when you click on the phone number, you are immediately given the option to call the number.
 
     <img src="assets/testing/footercall.jpg" width="25%" height="25%">
     
@@ -329,16 +331,16 @@ The navigation bar will be the same as the home page. Everything works as it sho
 
 1.	When opening the lessons page on a desktop you will large photo in the background with the title Lessons.
 2.	If you scroll down, the jumbotron background image will stay and the text will scroll over the photo.
-3.	If I resize the screen to an iPad or iPhone the jumbotron background image does not work. On Stack overflow I’ve read that the jumbotron does not (yet) work on small devices. what I did is resize the jumbotron background. You will see the photo will move when you scroll down the page.
-4.	Below the photo you will find a short intro about the lessons.
-5.	Below the intro is the "Call us" button which can also be found on the home page, this is easy for the user to find the number. The user can control all actions related to pop-ups
+3.	If I resize the screen to an iPad or iPhone the responsiveness of the jumbotron background image does not work. On Stack overflow I’ve read that the jumbotron does not (yet) work on small devices. what I did is resize the jumbotron background. You will see the photo will move when you scroll down the page.
+4.	Below the photo you will find a short introduction about the lessons.
+5.	Below the introduction is the "Call us" button which can also be found on the home page, the button has been tested and works as it should. 
 
 *Lessons:*
 1.	Information is provided on the different lessons available at Infinity Gym.
 2.  The photos I used for this website have the correct style and color and have not been stretched or squashed.
-3.	Below the information of the lesson there will be button that refers you to the Timetable.
+3.	Below the information of the lesson there will be button that refers you to the timetable.
 4.	Hover over the timetable button the color will change. 
-5.	Click on the button and it will direct you to the “timetable” page. The link works and takes you to the timetable page. 
+5.	Click on the button and it will direct you to the “timetable” page. The button link has been tested it works and takes you to the timetable page. 
 
 *Footer:*
 
@@ -352,13 +354,13 @@ The navigation bar will be the same as the home page. Everything works as it sho
 
 1.	When opening the timetable page on a desktop you will large photo in the background with the title Timetable.
 2.	If you scroll down, the jumbotron background image will stay and the text will scroll over the photo.
-3.	If I resize the screen to an iPad or iPhone the jumbotron background image does not work. On Stack overflow I’ve read that the jumbotron does not (yet) work on small devices. what I did is resize the jumbotron background. You will see the photo will move when you scroll down the page.
+3.	If I resize the screen to an iPad or iPhone the responsiveness of the jumbotron background image does not work. On Stack overflow I’ve read that the jumbotron does not (yet) work on small devices. what I did is resize the jumbotron background. You will see the photo will move when you scroll down the page.
 
 *Timetable:*
-1.	A timetable from Monday to Sunday is shown on this page.
+1.	The usability of the timetable page is quite easy going. A timetable from Monday to Sunday is shown on this page.
 2.	Below the timetable there will be button that refers you to the Lessons.
 3.	Hover over the lesson button the color will change. 
-4.	Click on the button and it will direct you to the “lessons” page. The link works and takes you to the lessons page. 
+4.	Click on the button and it will direct you to the “lessons” page. The button link has been tested, works and takes you to the lessons page. 
 
 *Footer:*
 
@@ -372,13 +374,13 @@ The navigation bar will be the same as the home page. Everything works as it sho
 
 1.	When opening the location page on a desktop you will large photo in the background with the title Location.
 4.	If you scroll down, the jumbotron background image will stay and the text will scroll over the photo.
-5.	If I resize the screen to an iPad or iPhone the jumbotron background image does not work. On Stack overflow I’ve read that the jumbotron does not (yet) work on small devices. what I did is resize the jumbotron background. You will see the photo will move when you scroll down the page.
+5.	If I resize the screen to an iPad or iPhone the responsiveness of the jumbotron background image does not work. On Stack overflow I’ve read that the jumbotron does not (yet) work on small devices. what I did is resize the jumbotron background. You will see the photo will move when you scroll down the page.
 
 *Location:*
-1.	On this page you will find the address and a simple picture of “Google maps” that will show the location of Infinity Gym.
+1.  The usability on this page is very easy, you will find the address and a simple picture of “Google maps” that will show the location of Infinity Gym.
 2.	Below the address there will also be a "Call us" button. Hover over the “Call us” button, you will see the color change.
 3.	When u click on the call us button on a desktop a pop-up will appear with the number where infinity Gym can be reached. (This button is repeated on every page.) 
-4.	On a mobile device a pop-up will appear with the number, when clicking on the phone number you immediately get the option to call the number.
+4.	On a mobile device a pop-up will appear with the number, when clicking on the phone number you immediately get the option to call the number. This page has been tested, all buttons and links work properly.
 
 *Footer:*
 The footer information will be the same as the homepage. These have all been tested individually on each page and all work.
@@ -390,7 +392,8 @@ The footer information will be the same as the homepage. These have all been tes
 
 After testing the response from the lighthouse, it turned out that my photos were on the large side. However, this is not very bad for the desktop version, but for the mobile devices the average response is immediately reduced.
 
-I have adjusted these pictures for all pages but the response from the lighthouse for the mobile version seems to be the same.
+I have adjusted these pictures for all pages but the response from the lighthouse for the mobile version seems to be the same. I am aware that the mobile version of the lighthouse does not have a high score and hope to change 
+this in the future. I am more than satisfied with the score of the lighthouse desktop version.
 
 ## Deployment
 ---
@@ -444,9 +447,10 @@ U can find information about cloning or downloading a repository [here](https://
 
 -   The Infinity Gym Logo I made myself. (logo.jpg)
 
-
 ### Acknowledgements
 
-I want to thank my mentor for giving me good advice and the confidence i could do it. 
+-  I want to thank my mentor Sinead O'Brien for giving me great advice and for trusting that I could do it.
 
+-  If I had any questions I could rely on the Slack community. I also asked some questions to Tutor Assistance, they also helped me.
 
+-  and I also want to thank my friends and family who have looked at my website several times. 
